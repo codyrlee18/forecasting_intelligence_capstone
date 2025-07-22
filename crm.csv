@@ -1,0 +1,1701 @@
+account_id,account_name,industry,customer_type,contract_length_months,client_tenure_months,deal_value_usd,deal_status
+A00001,"Rodriguez, Figueroa and Sanchez",FinTech,New,22,51,16190.56,Closed‑Won
+A00002,Doyle Ltd,Logistics,New,22,5,17934.75,Closed‑Won
+A00003,"Mcclain, Miller and Henderson",CyberSecurity,Expansion,13,32,17455.28,Closed‑Lost
+A00004,Davis and Sons,MarTech,Expansion,20,50,9198.05,Closed‑Lost
+A00005,"Guzman, Hoffman and Baldwin",MarTech,New,9,26,21366.04,Closed‑Won
+A00006,"Gardner, Robinson and Lawrence",Logistics,New,25,31,12032.57,Closed‑Won
+A00007,Blake and Sons,FinTech,Expansion,28,30,10669.11,Closed‑Won
+A00008,"Henderson, Ramirez and Lewis",CyberSecurity,Expansion,34,54,17124.52,Closed‑Won
+A00009,Garcia-James,HealthTech,New,15,3,11661.4,Closed‑Won
+A00010,Abbott-Munoz,FinTech,New,14,52,14996.22,Closed‑Won
+A00011,Blair PLC,E‑Commerce,Expansion,22,49,13009.35,Closed‑Won
+A00012,Dudley Group,SMB SaaS,Expansion,26,48,20316.98,Closed‑Won
+A00013,Arnold Ltd,CyberSecurity,Expansion,35,25,10730.44,Closed‑Won
+A00014,"Mcclure, Ward and Lee",Logistics,New,6,31,16665.26,Negotiation
+A00015,Williams and Sons,CyberSecurity,New,13,22,14044.43,Closed‑Won
+A00016,Galloway-Wyatt,Logistics,Expansion,13,15,12338.74,Closed‑Lost
+A00017,James Group,E‑Commerce,Expansion,13,52,23191.83,Closed‑Won
+A00018,"Flowers, Martin and Kelly",HealthTech,Expansion,19,30,12396.62,Closed‑Won
+A00019,"Adams, Zuniga and Wong",Logistics,New,32,43,8557.85,Closed‑Won
+A00020,"Reid, Ferguson and Sanchez",MarTech,New,6,6,15852.37,Closed‑Won
+A00021,Gray-Mayo,E‑Commerce,Expansion,30,47,12017.57,Closed‑Won
+A00022,"Watts, Robinson and Nguyen",EdTech,New,24,39,17460.14,Closed‑Won
+A00023,Perez Inc,HealthTech,Expansion,24,59,13682.1,Negotiation
+A00024,Morales-Jones,SMB SaaS,New,26,8,15592.57,Closed‑Won
+A00025,"Walter, Edwards and Rios",Logistics,Expansion,9,32,10606.29,Closed‑Lost
+A00026,Wilkerson-Day,CyberSecurity,Expansion,28,31,12288.67,Closed‑Won
+A00027,Baker and Sons,MarTech,New,13,32,14644.47,Negotiation
+A00028,"Hoffman, Baker and Richards",Logistics,New,21,4,14856.42,Closed‑Won
+A00029,"Ross, Robinson and Bright",E‑Commerce,New,26,28,14149.9,Closed‑Won
+A00030,"Snyder, Campos and Callahan",MarTech,New,24,18,7337.15,Closed‑Won
+A00031,Burton Ltd,MarTech,New,15,37,15477.46,On‑Hold
+A00032,Carlson-Cruz,HealthTech,New,17,14,15065.88,Closed‑Lost
+A00033,"Ferrell, Rice and Maddox",FinTech,Expansion,20,26,15080.46,Closed‑Won
+A00034,Frazier Inc,E‑Commerce,New,7,37,17567.91,Closed‑Lost
+A00035,"Dyer, Potter and Mack",SMB SaaS,New,27,4,16111.03,On‑Hold
+A00036,Rodriguez-Graham,FinTech,New,8,47,14285.41,Negotiation
+A00037,Smith-Bowen,Logistics,New,19,43,19787.93,Closed‑Won
+A00038,"Baker, Mason and White",Logistics,New,25,4,13140.74,Closed‑Won
+A00039,Harrell LLC,EdTech,New,8,4,11364.73,Closed‑Won
+A00040,"Romero, Gonzalez and Brooks",CyberSecurity,New,35,51,14946.82,Negotiation
+A00041,Ryan PLC,HealthTech,New,17,17,18265.65,Closed‑Won
+A00042,George Group,Logistics,Expansion,6,51,19961.68,Closed‑Won
+A00043,Rodriguez LLC,CyberSecurity,New,25,30,12621.59,Closed‑Won
+A00044,Allen-Allen,EdTech,New,22,21,14925.32,Negotiation
+A00045,"Arroyo, Miller and Tucker",FinTech,Expansion,25,17,17259.1,Closed‑Won
+A00046,Spence PLC,SMB SaaS,Expansion,28,39,15968.01,Closed‑Won
+A00047,Anderson Group,MarTech,New,20,7,12992.91,Closed‑Won
+A00048,"Martin, Rose and Obrien",SMB SaaS,New,30,24,14150.24,Closed‑Won
+A00049,Hickman Ltd,CyberSecurity,New,17,21,11757.55,Negotiation
+A00050,"Harris, Collins and Carney",Logistics,New,22,10,11616.13,Closed‑Won
+A00051,"Brooks, Lam and Hayes",Logistics,New,10,21,14084.66,Closed‑Won
+A00052,Walker LLC,HealthTech,New,24,32,16839.77,Closed‑Won
+A00053,Chapman and Sons,EdTech,New,13,40,16487.46,Closed‑Won
+A00054,"Robinson, Jones and Welch",MarTech,New,26,6,11828.59,Closed‑Lost
+A00055,Jones Inc,MarTech,Expansion,30,52,11146.62,Closed‑Won
+A00056,Jones-Young,FinTech,New,31,52,12259.7,Closed‑Won
+A00057,"Washington, Ryan and Cummings",E‑Commerce,New,33,41,6342.05,Closed‑Won
+A00058,"Johnston, Sanchez and Kennedy",HealthTech,New,9,55,18566.94,Closed‑Won
+A00059,Lee-Davis,CyberSecurity,New,10,26,12240.95,Closed‑Won
+A00060,Gomez-Jenkins,CyberSecurity,New,33,49,20562.11,Closed‑Won
+A00061,"Brown, Valdez and Lucas",SMB SaaS,Expansion,17,43,17520.68,Closed‑Won
+A00062,Powell LLC,CyberSecurity,Expansion,6,34,19687.93,Closed‑Won
+A00063,Wright and Sons,EdTech,Expansion,14,11,21078.43,Closed‑Won
+A00064,"West, Henderson and Ramirez",SMB SaaS,Expansion,31,33,9952.25,Closed‑Won
+A00065,Baxter Inc,MarTech,Expansion,16,54,6797.24,Negotiation
+A00066,Morton-Chase,EdTech,Expansion,8,59,16113.28,Closed‑Won
+A00067,Williams PLC,SMB SaaS,New,27,27,13520.21,Closed‑Won
+A00068,Novak and Sons,EdTech,New,11,15,13865.31,On‑Hold
+A00069,Russell Group,FinTech,New,16,45,15329.45,Closed‑Won
+A00070,Hancock Inc,MarTech,New,6,5,10737.16,Closed‑Won
+A00071,Gray Group,Logistics,New,24,9,10617.95,Closed‑Won
+A00072,House-Glover,HealthTech,Expansion,19,34,11059.84,Closed‑Won
+A00073,Henderson-Bernard,MarTech,New,32,59,16072.04,Closed‑Won
+A00074,"Stanley, Tucker and Lee",HealthTech,New,16,20,17019.74,Closed‑Won
+A00075,Novak PLC,CyberSecurity,New,12,27,10897.57,Closed‑Won
+A00076,"Daniels, Adkins and Brown",MarTech,New,10,20,15192.35,Negotiation
+A00077,"Woods, Calhoun and Schmidt",EdTech,New,12,26,14898.6,Closed‑Lost
+A00078,Yu Inc,HealthTech,Expansion,19,1,13261.29,Closed‑Won
+A00079,Jones Inc,E‑Commerce,New,8,36,16066.75,Closed‑Won
+A00080,"Hensley, Powell and David",CyberSecurity,Expansion,18,36,12160.47,Closed‑Won
+A00081,"Sanchez, Wheeler and Harvey",SMB SaaS,New,31,19,19119.52,Closed‑Won
+A00082,Sandoval-Cunningham,MarTech,New,29,16,14477.6,Closed‑Won
+A00083,Donovan-Harris,HealthTech,New,25,45,21997.57,Closed‑Won
+A00084,"Edwards, Baker and Anderson",Logistics,Expansion,32,12,14655.59,Closed‑Won
+A00085,"Evans, Stewart and Walton",CyberSecurity,Expansion,29,3,13831.01,Closed‑Won
+A00086,Smith PLC,CyberSecurity,New,25,3,14506.99,Closed‑Won
+A00087,"Ferrell, Jones and Lewis",FinTech,Expansion,31,53,13062.79,Closed‑Won
+A00088,Anderson-Bailey,EdTech,New,9,22,11026.93,Closed‑Won
+A00089,Suarez LLC,Logistics,Expansion,30,7,6885.15,Closed‑Won
+A00090,Moore-Bass,Logistics,New,14,52,9886.87,Closed‑Won
+A00091,"Turner, Riggs and Roman",MarTech,New,27,9,17784.29,Closed‑Won
+A00092,"Smith, Montoya and Evans",Logistics,Expansion,33,20,21252.67,On‑Hold
+A00093,"Garcia, Humphrey and Baker",Logistics,New,20,2,18012.05,Closed‑Won
+A00094,Newton and Sons,MarTech,New,8,41,14775.86,Closed‑Lost
+A00095,Campbell-Clark,SMB SaaS,New,17,42,10714.9,Closed‑Won
+A00096,Harris-Walters,EdTech,New,18,45,13641.66,Closed‑Won
+A00097,Wagner-King,HealthTech,Expansion,34,16,20247.99,Closed‑Won
+A00098,Davis Group,CyberSecurity,Expansion,34,20,12051.78,Closed‑Won
+A00099,Williams-Cook,CyberSecurity,Expansion,23,56,12326.69,Negotiation
+A00100,Walsh LLC,HealthTech,New,34,49,21682.73,Closed‑Won
+A00101,Figueroa PLC,Logistics,New,19,3,8938.27,Closed‑Won
+A00102,"Patterson, Smith and Jones",HealthTech,New,18,41,15217.85,Closed‑Won
+A00103,"Mckee, Gardner and Davenport",Logistics,New,31,48,21437.58,Closed‑Won
+A00104,"Tran, Jordan and Williams",FinTech,New,26,33,10650.1,Negotiation
+A00105,Nolan-Flynn,Logistics,Expansion,21,38,13382.66,Closed‑Won
+A00106,Nolan and Sons,Logistics,Expansion,19,1,14574.49,Closed‑Won
+A00107,"Wright, Garcia and Deleon",Logistics,Expansion,27,2,16574.29,Closed‑Lost
+A00108,Dickson-Brady,CyberSecurity,New,28,3,15780.95,Closed‑Won
+A00109,Hancock and Sons,MarTech,New,20,10,15830.14,Closed‑Won
+A00110,Johnson-Doyle,CyberSecurity,New,6,59,13969.17,Closed‑Won
+A00111,Patton-Jenkins,EdTech,New,9,38,18444.43,Closed‑Won
+A00112,"Shields, Cochran and Adams",Logistics,New,10,47,22243.55,Closed‑Won
+A00113,"Rodriguez, Brennan and Garrison",E‑Commerce,New,19,18,18224.44,Closed‑Won
+A00114,Gonzalez Group,MarTech,New,24,56,10207.12,Closed‑Won
+A00115,Torres-Pope,E‑Commerce,Expansion,30,12,16168.07,Closed‑Lost
+A00116,Walker Ltd,E‑Commerce,New,12,54,21683.73,Closed‑Won
+A00117,Ross LLC,FinTech,Expansion,29,2,11706.15,Closed‑Won
+A00118,Rasmussen LLC,HealthTech,New,25,2,14841.53,Closed‑Won
+A00119,May-Ross,HealthTech,New,7,5,4757.18,Closed‑Won
+A00120,"Rivera, Johnson and Wiley",FinTech,New,16,47,15075.37,Closed‑Won
+A00121,White-Estes,MarTech,New,15,16,15237.42,Closed‑Won
+A00122,Johnson-Carlson,CyberSecurity,New,32,27,12786.97,Negotiation
+A00123,Chandler-Edwards,CyberSecurity,New,33,28,13100.0,Closed‑Won
+A00124,"Joyce, Wilson and Lam",MarTech,Expansion,30,47,14311.01,Closed‑Lost
+A00125,Scott Ltd,Logistics,New,21,21,17152.74,Negotiation
+A00126,Smith-Frost,E‑Commerce,New,20,1,10480.28,Closed‑Won
+A00127,"Mcdaniel, Bentley and Mclaughlin",FinTech,New,15,23,15319.25,Closed‑Won
+A00128,Diaz Inc,Logistics,New,29,18,19626.04,Closed‑Won
+A00129,"Mccall, Hanson and Alvarado",E‑Commerce,New,8,44,11430.79,Closed‑Won
+A00130,Cortez LLC,CyberSecurity,New,14,45,16936.46,Negotiation
+A00131,"Parker, Ortiz and Powell",E‑Commerce,Expansion,10,6,14473.59,Closed‑Won
+A00132,Spencer-Lee,E‑Commerce,Expansion,20,47,17127.45,Closed‑Won
+A00133,"Bentley, Byrd and Orr",FinTech,Expansion,14,5,9921.25,Closed‑Won
+A00134,"Carroll, Sullivan and Bass",E‑Commerce,New,11,37,13349.77,Closed‑Won
+A00135,Mitchell-Jordan,Logistics,New,17,23,16160.79,Closed‑Won
+A00136,"Lawson, Morris and Ramos",EdTech,Expansion,31,18,8013.21,Closed‑Lost
+A00137,"Lewis, Kennedy and Santana",E‑Commerce,New,22,29,14038.12,Closed‑Won
+A00138,"Jackson, Miller and Robertson",FinTech,New,30,19,22518.13,Closed‑Won
+A00139,"Harvey, Davis and Crane",EdTech,New,33,47,7371.46,Closed‑Won
+A00140,Chambers and Sons,MarTech,Expansion,33,58,10261.31,Closed‑Won
+A00141,Hernandez Inc,SMB SaaS,New,16,49,14459.46,Closed‑Won
+A00142,Riggs PLC,HealthTech,Expansion,32,26,12772.45,Closed‑Won
+A00143,Gibson Ltd,EdTech,Expansion,33,30,25890.23,Negotiation
+A00144,"Lee, Horton and Snyder",MarTech,New,34,27,19731.69,Closed‑Won
+A00145,Hernandez Ltd,SMB SaaS,Expansion,16,47,9324.98,Closed‑Won
+A00146,Stafford Inc,Logistics,New,12,33,8753.01,Closed‑Won
+A00147,Robinson-Brock,FinTech,New,23,28,14250.06,Closed‑Won
+A00148,"Holmes, Williams and Wright",HealthTech,New,33,25,15199.6,Closed‑Won
+A00149,Bryant Group,Logistics,Expansion,33,23,20576.2,Closed‑Won
+A00150,"Schmidt, Hansen and Stewart",FinTech,New,23,33,9702.74,Closed‑Won
+A00151,Salazar-Ball,Logistics,New,10,41,17933.04,Closed‑Won
+A00152,"Simmons, Meadows and Griffin",EdTech,New,18,26,16535.17,Closed‑Won
+A00153,Manning Group,SMB SaaS,New,27,48,16915.07,Closed‑Won
+A00154,Green-Wright,EdTech,New,22,49,9555.15,On‑Hold
+A00155,"Ramirez, Strickland and Washington",MarTech,New,16,26,15559.65,Negotiation
+A00156,Hill Inc,CyberSecurity,New,16,54,10781.06,Closed‑Won
+A00157,"Mitchell, Nelson and Flores",HealthTech,Expansion,7,11,26593.81,Closed‑Won
+A00158,"Miller, Hernandez and Reyes",E‑Commerce,New,14,55,14643.43,Closed‑Won
+A00159,Mccarthy Inc,E‑Commerce,Expansion,26,18,16116.82,Closed‑Won
+A00160,Russell-Daniels,Logistics,New,13,34,12835.18,Negotiation
+A00161,Brown-Wall,SMB SaaS,New,35,17,13581.03,Closed‑Won
+A00162,Stein-Silva,CyberSecurity,New,8,27,14476.59,Closed‑Won
+A00163,"Smith, Gilmore and Johnston",MarTech,New,23,21,16382.83,Closed‑Won
+A00164,Smith-Bell,MarTech,Expansion,20,42,18353.97,Closed‑Won
+A00165,Castaneda-Ashley,MarTech,New,30,5,19930.13,Closed‑Won
+A00166,Medina-Navarro,Logistics,New,32,50,14833.58,Closed‑Won
+A00167,"Hurst, Freeman and Nelson",EdTech,New,22,54,13342.16,Closed‑Lost
+A00168,Johnson-Rogers,HealthTech,Expansion,24,34,15465.16,Closed‑Lost
+A00169,"Yates, Ramsey and Pittman",EdTech,New,26,33,17276.34,Negotiation
+A00170,Hooper PLC,FinTech,New,21,42,12620.91,Closed‑Won
+A00171,Meadows PLC,FinTech,Expansion,11,12,8869.55,Closed‑Won
+A00172,"Alvarado, Miller and Patterson",FinTech,Expansion,18,45,12524.53,Closed‑Won
+A00173,White-Green,Logistics,Expansion,13,13,20455.58,Closed‑Won
+A00174,Lewis-Murphy,CyberSecurity,New,19,40,14667.15,Closed‑Won
+A00175,Ramirez-Bean,CyberSecurity,New,24,19,14565.88,Closed‑Won
+A00176,King-Miller,MarTech,New,12,45,12279.59,Closed‑Lost
+A00177,Curry Inc,CyberSecurity,Expansion,13,47,16692.12,Closed‑Won
+A00178,Walker-Jones,HealthTech,New,30,13,10395.17,Closed‑Won
+A00179,"Williams, Johnson and Wright",SMB SaaS,Expansion,17,37,10600.73,Closed‑Won
+A00180,Howell and Sons,E‑Commerce,New,11,30,13967.46,Closed‑Won
+A00181,Wells Inc,SMB SaaS,New,27,18,14335.33,Negotiation
+A00182,"Gould, Marshall and Scott",HealthTech,Expansion,27,35,14242.17,Closed‑Won
+A00183,Jackson-Lawson,MarTech,New,30,59,19711.51,Closed‑Won
+A00184,"Higgins, Strickland and Martin",CyberSecurity,Expansion,28,1,14145.53,Closed‑Won
+A00185,Rodriguez-Johnson,MarTech,New,35,57,12266.62,Negotiation
+A00186,Johnston-Odonnell,MarTech,New,23,51,12977.55,Closed‑Won
+A00187,Sanders-Espinoza,HealthTech,New,14,32,22559.55,Closed‑Won
+A00188,Vargas Ltd,MarTech,New,31,36,16795.68,Closed‑Won
+A00189,Garcia LLC,HealthTech,New,13,22,11944.89,Closed‑Won
+A00190,"Burke, Martinez and Riggs",EdTech,New,14,8,18856.82,Closed‑Won
+A00191,Reed Group,CyberSecurity,New,30,34,15440.14,Closed‑Won
+A00192,"Wood, Hunter and Peterson",CyberSecurity,New,32,49,18399.37,Closed‑Won
+A00193,Short-Garcia,E‑Commerce,New,16,14,19731.22,Negotiation
+A00194,Reid-Poole,EdTech,New,27,43,12088.41,Negotiation
+A00195,"Hernandez, Thompson and Boyd",SMB SaaS,New,33,45,7167.21,Closed‑Won
+A00196,"Nelson, Morton and Medina",FinTech,New,29,45,5733.51,Negotiation
+A00197,Marshall-Petersen,EdTech,New,6,21,14054.84,Closed‑Won
+A00198,"Adams, Christian and Rivas",FinTech,Expansion,25,24,14604.5,Closed‑Won
+A00199,Ramirez Group,EdTech,Expansion,11,25,15600.38,Closed‑Won
+A00200,Christensen PLC,SMB SaaS,New,31,51,18505.1,Closed‑Lost
+A00201,"Barnett, Rogers and Snyder",EdTech,New,8,54,23270.26,Closed‑Won
+A00202,White-Lewis,SMB SaaS,New,35,25,17220.06,Closed‑Won
+A00203,Peterson-Beard,MarTech,New,11,58,8878.39,Closed‑Won
+A00204,"Beard, Peters and Black",CyberSecurity,New,18,34,18213.59,Closed‑Won
+A00205,Miller Ltd,MarTech,New,13,23,15366.89,Closed‑Won
+A00206,Freeman-Chang,EdTech,New,30,1,19056.73,Negotiation
+A00207,"Alvarez, Joseph and West",Logistics,Expansion,17,37,20381.69,Negotiation
+A00208,Davis and Sons,SMB SaaS,New,28,39,12700.84,Closed‑Lost
+A00209,Holt-Torres,EdTech,New,8,58,12067.44,Closed‑Won
+A00210,"Wood, Tran and Cooper",Logistics,Expansion,19,43,18747.18,Negotiation
+A00211,"Pierce, Bell and Chavez",EdTech,Expansion,33,2,17082.26,Closed‑Won
+A00212,King-Martinez,CyberSecurity,New,33,34,12425.23,Closed‑Won
+A00213,Stewart Ltd,Logistics,New,12,44,13827.53,Closed‑Won
+A00214,"Tapia, Vaughn and Lee",MarTech,New,17,30,11590.14,Closed‑Won
+A00215,"Washington, Hardy and Bray",CyberSecurity,New,18,26,18460.55,Closed‑Won
+A00216,"Carlson, Hooper and Wall",EdTech,Expansion,22,48,13980.38,On‑Hold
+A00217,Perez-White,FinTech,New,22,37,20980.43,Negotiation
+A00218,Erickson and Sons,FinTech,New,9,41,19105.34,On‑Hold
+A00219,Williams-Brown,MarTech,New,28,28,17433.32,Closed‑Won
+A00220,Terry-Martinez,SMB SaaS,New,12,17,5135.7,Closed‑Won
+A00221,Garcia-Smith,HealthTech,Expansion,15,31,14864.47,Closed‑Won
+A00222,Harrison-Alexander,MarTech,New,31,57,9642.78,Closed‑Won
+A00223,Sheppard LLC,CyberSecurity,New,26,36,18924.25,Closed‑Won
+A00224,Wilson-Jones,HealthTech,Expansion,17,42,17578.34,On‑Hold
+A00225,Jones-Soto,CyberSecurity,Expansion,33,8,8543.6,Closed‑Won
+A00226,Hernandez PLC,EdTech,New,17,59,16526.63,Closed‑Won
+A00227,Miller-Wright,Logistics,New,22,15,14806.19,Closed‑Won
+A00228,"Duran, Obrien and Gibbs",E‑Commerce,New,13,58,15421.77,Closed‑Won
+A00229,Rowe Group,E‑Commerce,New,11,27,19810.54,Closed‑Won
+A00230,Kerr-Evans,HealthTech,New,20,55,12183.96,Closed‑Won
+A00231,"Branch, Torres and Oliver",MarTech,New,22,53,17114.67,Closed‑Lost
+A00232,"Choi, Garcia and Farmer",Logistics,Expansion,30,45,14745.43,Closed‑Won
+A00233,"Clark, Guerrero and Moore",FinTech,Expansion,17,55,13440.21,Closed‑Won
+A00234,Arnold and Sons,Logistics,Expansion,32,36,10249.77,Closed‑Won
+A00235,Ortiz Ltd,MarTech,Expansion,24,51,12917.18,Closed‑Won
+A00236,"Harrison, Johnson and Roberts",CyberSecurity,Expansion,8,11,17051.16,Closed‑Won
+A00237,Warner-Gibson,CyberSecurity,Expansion,28,5,17559.34,Closed‑Won
+A00238,"Hall, Baker and Moody",MarTech,Expansion,23,33,12818.04,Closed‑Won
+A00239,"Guerrero, Peck and Coleman",EdTech,New,17,48,25674.49,Closed‑Won
+A00240,"Walker, Hernandez and Baker",CyberSecurity,New,20,46,20324.75,Closed‑Won
+A00241,Jones and Sons,HealthTech,New,15,32,9991.9,Closed‑Won
+A00242,Larson-Holloway,E‑Commerce,New,24,31,16110.02,Closed‑Won
+A00243,Gonzales-Harrison,FinTech,New,23,36,8441.98,Closed‑Won
+A00244,Lyons-Bender,CyberSecurity,New,19,52,16763.82,Closed‑Lost
+A00245,"Fernandez, Kim and George",CyberSecurity,New,14,50,19331.74,Closed‑Won
+A00246,Navarro-Munoz,FinTech,New,17,7,12654.48,Closed‑Lost
+A00247,Davis Ltd,Logistics,New,20,36,15389.86,Closed‑Won
+A00248,"Matthews, Smith and Hubbard",MarTech,Expansion,20,23,14427.85,Closed‑Won
+A00249,Johnston-Hines,Logistics,Expansion,15,48,14021.15,Closed‑Won
+A00250,Ruiz Ltd,FinTech,New,23,30,11269.49,Closed‑Won
+A00251,Moon-White,HealthTech,New,12,59,14493.12,Closed‑Won
+A00252,"Graham, Olsen and Costa",MarTech,New,21,26,19605.47,Closed‑Won
+A00253,Bailey-Cook,HealthTech,Expansion,9,41,16748.07,Closed‑Won
+A00254,"Garcia, Martin and Jenkins",EdTech,Expansion,20,7,17093.51,Closed‑Won
+A00255,Roberts-Landry,CyberSecurity,New,29,56,12785.79,Closed‑Won
+A00256,"Johnson, Miller and King",HealthTech,Expansion,30,10,19758.9,Closed‑Won
+A00257,Cordova Group,CyberSecurity,New,26,23,16977.06,Closed‑Won
+A00258,"Bryan, Smith and Booth",FinTech,New,28,50,14899.41,Closed‑Won
+A00259,Gutierrez-Lopez,HealthTech,Expansion,7,58,18843.92,Negotiation
+A00260,Dean-Jimenez,E‑Commerce,New,16,29,12389.23,Closed‑Won
+A00261,Wolf-Harris,Logistics,New,25,29,18150.41,Closed‑Lost
+A00262,"Anderson, Roberts and Gilmore",HealthTech,New,30,3,13490.85,Closed‑Won
+A00263,Martinez-Dudley,EdTech,New,23,58,11571.24,Closed‑Won
+A00264,"Lloyd, Mckinney and Collins",SMB SaaS,Expansion,31,1,16289.33,Closed‑Won
+A00265,Tran Inc,SMB SaaS,Expansion,14,2,25021.9,Closed‑Won
+A00266,Gay Inc,E‑Commerce,New,10,28,10386.24,Closed‑Won
+A00267,Valentine-Holland,MarTech,New,8,1,15944.44,Closed‑Won
+A00268,Jimenez Ltd,EdTech,Expansion,23,10,18192.05,Closed‑Won
+A00269,Hicks-Hill,E‑Commerce,New,25,38,10680.07,Negotiation
+A00270,Baird-Sanchez,E‑Commerce,Expansion,14,42,13771.67,Closed‑Won
+A00271,"Thomas, Lee and Greene",EdTech,New,29,18,15409.31,Closed‑Won
+A00272,"Suarez, Shields and Hill",FinTech,New,28,47,14255.6,Closed‑Won
+A00273,Morgan-French,HealthTech,Expansion,16,36,15542.67,Closed‑Lost
+A00274,Hoover-Campbell,SMB SaaS,New,13,14,22739.39,Closed‑Won
+A00275,Monroe-Carpenter,MarTech,New,28,43,15983.45,Closed‑Won
+A00276,"Burns, Hernandez and Ryan",MarTech,New,26,35,19010.3,Closed‑Won
+A00277,Cook-Hines,MarTech,New,11,48,8659.44,Closed‑Won
+A00278,Gibson-Morris,Logistics,New,13,10,14440.53,Closed‑Won
+A00279,Pollard and Sons,FinTech,New,20,14,15925.5,Closed‑Won
+A00280,"Reyes, Chase and Jenkins",FinTech,Expansion,21,18,17967.72,Closed‑Won
+A00281,Garner-Thornton,EdTech,Expansion,10,21,8161.77,Closed‑Won
+A00282,Hughes-Alvarado,MarTech,New,34,53,14739.91,Closed‑Won
+A00283,"Pollard, Simpson and Johnson",CyberSecurity,New,17,44,7745.8,Closed‑Won
+A00284,"Sanford, Rivera and Garcia",MarTech,Expansion,17,33,11368.52,Closed‑Won
+A00285,Garcia-Lozano,MarTech,Expansion,7,32,18015.47,Closed‑Won
+A00286,Bowen Group,SMB SaaS,New,32,53,16283.13,Closed‑Lost
+A00287,"Booker, Jones and Harrington",HealthTech,New,13,27,21136.92,Negotiation
+A00288,Morgan-Schwartz,E‑Commerce,New,35,14,17345.31,Closed‑Won
+A00289,"Miller, Murphy and Craig",E‑Commerce,New,20,9,9582.53,Closed‑Won
+A00290,"James, Stewart and Higgins",MarTech,New,32,20,11763.62,Closed‑Won
+A00291,Brennan-Johnson,Logistics,New,11,39,16033.98,Closed‑Lost
+A00292,Young Ltd,EdTech,Expansion,10,28,12729.15,Closed‑Won
+A00293,Bright-Francis,SMB SaaS,Expansion,30,25,17874.53,Negotiation
+A00294,Good-Hodges,EdTech,Expansion,30,29,14771.38,Closed‑Won
+A00295,"Brennan, Wallace and Benson",E‑Commerce,New,22,58,22583.42,Closed‑Won
+A00296,Williams Inc,E‑Commerce,New,6,59,4019.54,Closed‑Won
+A00297,Howard-Jordan,Logistics,Expansion,34,10,21368.26,Closed‑Won
+A00298,Schmidt PLC,MarTech,Expansion,17,7,9056.09,Negotiation
+A00299,"Sparks, Jackson and Miller",EdTech,New,34,15,12557.63,Closed‑Won
+A00300,Harvey-Allen,FinTech,Expansion,32,51,13736.73,Closed‑Won
+A00301,"Thomas, Murray and King",EdTech,New,31,28,7332.3,Negotiation
+A00302,Estrada-Nolan,Logistics,Expansion,26,51,17987.55,Closed‑Won
+A00303,Santana-Byrd,FinTech,New,26,39,15847.32,Closed‑Won
+A00304,Jones LLC,SMB SaaS,New,21,33,13240.94,Closed‑Won
+A00305,"Evans, Hayden and Vaughn",E‑Commerce,New,6,17,20624.52,Closed‑Won
+A00306,Bruce-Gonzalez,HealthTech,New,17,21,9238.58,Closed‑Won
+A00307,Castaneda-Rodriguez,EdTech,New,27,9,13879.45,Closed‑Won
+A00308,Armstrong-Andrews,E‑Commerce,New,30,31,20157.27,Closed‑Won
+A00309,"Phillips, Spence and Barrett",EdTech,New,22,17,14292.06,Closed‑Won
+A00310,Smith-Grimes,FinTech,Expansion,27,18,13496.95,Closed‑Lost
+A00311,"Beltran, Lozano and Mcgee",CyberSecurity,New,6,3,16944.73,Closed‑Won
+A00312,Parsons-Hall,CyberSecurity,New,20,48,12997.75,Closed‑Won
+A00313,Robinson-Lee,FinTech,Expansion,21,56,24131.74,On‑Hold
+A00314,Byrd-Le,EdTech,New,32,30,13973.99,Closed‑Lost
+A00315,"Becker, Taylor and Davis",HealthTech,New,15,32,11196.01,Closed‑Won
+A00316,"Lucas, Parker and Alexander",CyberSecurity,Expansion,12,55,16803.27,Closed‑Won
+A00317,"Diaz, Anderson and Browning",CyberSecurity,Expansion,16,31,17861.25,Closed‑Won
+A00318,Burgess-Thompson,CyberSecurity,New,11,37,13873.58,Closed‑Won
+A00319,Buchanan LLC,SMB SaaS,Expansion,22,26,17800.32,Closed‑Won
+A00320,"Shaw, Nelson and Martin",Logistics,New,25,31,13696.79,Closed‑Won
+A00321,Coffey-Phillips,EdTech,New,30,31,13418.43,Negotiation
+A00322,Brock-Mcdonald,FinTech,Expansion,35,42,22816.2,Closed‑Won
+A00323,Taylor and Sons,E‑Commerce,New,8,36,13455.12,Closed‑Won
+A00324,"Ramsey, Whitney and Coffey",SMB SaaS,Expansion,13,30,13115.95,Closed‑Won
+A00325,"Diaz, Gibbs and Smith",SMB SaaS,New,15,5,22438.67,Closed‑Won
+A00326,"Martinez, Richardson and Curry",HealthTech,Expansion,13,54,19860.46,Closed‑Won
+A00327,Richards-Carson,HealthTech,New,30,53,13564.06,Closed‑Won
+A00328,Rodriguez-Hall,FinTech,New,10,11,19915.76,Closed‑Won
+A00329,Harvey PLC,HealthTech,New,6,18,16337.68,Closed‑Won
+A00330,Herman-Walker,E‑Commerce,New,31,58,14628.13,Closed‑Won
+A00331,Reid Group,E‑Commerce,Expansion,34,19,14430.49,Closed‑Won
+A00332,"Turner, Ortiz and Taylor",EdTech,New,12,48,14580.38,Closed‑Won
+A00333,Torres Group,EdTech,New,15,47,21338.5,Negotiation
+A00334,Davis PLC,Logistics,New,21,51,16262.3,Closed‑Won
+A00335,Price LLC,MarTech,New,21,1,9900.27,Negotiation
+A00336,"Avery, Horton and Fernandez",Logistics,Expansion,35,29,9649.98,Closed‑Won
+A00337,"Newton, Moore and Perry",SMB SaaS,New,18,34,9735.62,Closed‑Won
+A00338,Bass PLC,EdTech,Expansion,6,50,17849.75,Closed‑Won
+A00339,Crosby-Ramirez,HealthTech,New,18,14,16605.81,Negotiation
+A00340,"Wood, Ramos and Sampson",SMB SaaS,New,22,19,17305.11,Closed‑Won
+A00341,Garcia-Jennings,CyberSecurity,New,21,11,11401.63,Closed‑Won
+A00342,"Winters, Newman and Brown",EdTech,New,21,45,11983.11,Closed‑Lost
+A00343,Lopez-Martinez,E‑Commerce,Expansion,33,59,16224.91,Closed‑Lost
+A00344,Davis-Lewis,E‑Commerce,Expansion,30,9,23448.34,Closed‑Won
+A00345,"Harper, Smith and Buchanan",SMB SaaS,Expansion,13,14,10410.0,Closed‑Won
+A00346,Zhang PLC,EdTech,New,16,19,16561.62,Closed‑Won
+A00347,Jones PLC,SMB SaaS,New,26,53,10089.89,On‑Hold
+A00348,Willis and Sons,SMB SaaS,New,18,27,8538.21,Closed‑Won
+A00349,Schroeder-Kramer,HealthTech,New,18,17,18126.82,Closed‑Won
+A00350,"Smith, Garrison and Thomas",HealthTech,Expansion,11,20,17920.55,On‑Hold
+A00351,Fernandez and Sons,E‑Commerce,New,13,36,7739.75,Closed‑Won
+A00352,Guerrero Inc,FinTech,New,28,23,17518.0,Negotiation
+A00353,Smith and Sons,EdTech,Expansion,31,9,14549.05,Closed‑Won
+A00354,"Morris, Thompson and Williams",MarTech,Expansion,29,49,16225.29,Closed‑Won
+A00355,"Fisher, Wilson and Brown",SMB SaaS,New,15,25,19080.9,Closed‑Won
+A00356,Strickland-Palmer,SMB SaaS,New,10,16,14260.69,Closed‑Won
+A00357,Hayes and Sons,HealthTech,New,10,43,15265.97,Closed‑Won
+A00358,"Williams, Logan and Camacho",SMB SaaS,New,17,44,20065.16,Negotiation
+A00359,"Turner, Schneider and Johnson",FinTech,New,21,10,6106.33,Closed‑Won
+A00360,Boone-Simmons,CyberSecurity,New,32,5,8037.26,Closed‑Won
+A00361,Henry Group,Logistics,Expansion,32,3,11900.21,Closed‑Won
+A00362,Lam LLC,SMB SaaS,Expansion,6,46,13370.62,Closed‑Won
+A00363,"Hernandez, Martinez and Weber",HealthTech,New,27,37,19655.27,Closed‑Won
+A00364,"Kelley, Nguyen and Vang",SMB SaaS,New,14,47,9302.98,Closed‑Won
+A00365,"Phillips, Wagner and Jordan",FinTech,New,11,37,11460.55,Closed‑Won
+A00366,"Wilson, Pena and Rich",E‑Commerce,New,22,24,13684.56,Closed‑Won
+A00367,"Le, Lewis and Hayes",MarTech,New,7,35,10839.92,Closed‑Won
+A00368,Gutierrez Group,EdTech,New,16,43,18964.37,Closed‑Won
+A00369,Perry-Davis,FinTech,New,22,24,7871.86,Closed‑Won
+A00370,Edwards-Scott,Logistics,New,14,54,9344.3,Closed‑Won
+A00371,Mcdaniel Group,EdTech,New,23,54,13027.32,Negotiation
+A00372,Davis Inc,CyberSecurity,New,19,48,12098.24,On‑Hold
+A00373,Reynolds Ltd,MarTech,Expansion,29,59,13126.4,Closed‑Won
+A00374,"Watson, Anderson and Brown",EdTech,New,11,24,15736.29,Closed‑Won
+A00375,"Hoffman, Santiago and Jenkins",SMB SaaS,New,7,7,16566.87,Negotiation
+A00376,"Pugh, Henderson and Moon",FinTech,Expansion,21,29,16706.32,Closed‑Won
+A00377,Schmitt PLC,CyberSecurity,New,13,45,11951.6,Closed‑Won
+A00378,Bell-Lane,CyberSecurity,New,27,46,17383.65,Closed‑Won
+A00379,Moore Group,MarTech,Expansion,8,23,14103.2,Negotiation
+A00380,Boone LLC,EdTech,New,23,18,21185.32,Closed‑Won
+A00381,"Richardson, Farmer and Andrews",FinTech,New,35,27,17806.46,Closed‑Won
+A00382,Bruce-Villegas,SMB SaaS,New,8,48,17685.63,Closed‑Won
+A00383,"Austin, Day and Johnson",SMB SaaS,New,15,4,18158.98,Closed‑Won
+A00384,"Gallegos, Adams and White",HealthTech,New,31,20,12424.95,On‑Hold
+A00385,"Farmer, Dorsey and Bell",FinTech,New,22,14,11658.59,Closed‑Lost
+A00386,Kane PLC,FinTech,New,11,48,14244.75,On‑Hold
+A00387,"Morales, Thomas and Schultz",FinTech,New,12,28,20342.16,Closed‑Won
+A00388,Davis PLC,Logistics,New,28,6,10803.55,Closed‑Won
+A00389,Bennett Group,SMB SaaS,New,31,16,18809.01,Closed‑Won
+A00390,Moore-Collins,HealthTech,New,16,3,13118.91,Closed‑Won
+A00391,Frank-Bradley,CyberSecurity,Expansion,20,29,14632.27,Closed‑Won
+A00392,Ware and Sons,HealthTech,New,29,59,15068.02,Closed‑Won
+A00393,Webster Inc,EdTech,New,11,34,8960.27,Closed‑Won
+A00394,"Miller, Ramos and Coleman",E‑Commerce,New,12,52,10693.69,Negotiation
+A00395,"Ramos, Nelson and Fischer",CyberSecurity,New,29,44,18032.52,Closed‑Won
+A00396,Reed Inc,Logistics,New,11,53,16724.37,Negotiation
+A00397,Gregory-Watkins,FinTech,New,29,19,13140.61,Closed‑Won
+A00398,"Estrada, Williams and Foster",HealthTech,New,20,57,14071.54,Closed‑Won
+A00399,"Brown, Harris and Dougherty",EdTech,Expansion,35,15,18068.38,Closed‑Won
+A00400,Duran LLC,EdTech,Expansion,6,26,21688.5,Negotiation
+A00401,Wilson-Jimenez,SMB SaaS,New,34,41,18750.24,Closed‑Won
+A00402,Thompson-James,Logistics,New,12,17,14858.01,Closed‑Won
+A00403,"Hall, Hansen and Barnett",EdTech,New,7,16,20639.57,On‑Hold
+A00404,Jones-Hensley,SMB SaaS,New,27,8,18127.64,Closed‑Won
+A00405,Graham Group,MarTech,New,21,1,13573.12,Negotiation
+A00406,Atkins PLC,E‑Commerce,Expansion,31,30,10537.96,Closed‑Won
+A00407,Berry-Mckinney,MarTech,Expansion,9,59,6031.53,Closed‑Won
+A00408,Roberts-Sullivan,HealthTech,Expansion,8,13,15334.51,Closed‑Won
+A00409,Jackson-Meza,SMB SaaS,New,23,26,10942.11,Closed‑Won
+A00410,Collier-Gillespie,FinTech,Expansion,32,56,13168.85,Closed‑Won
+A00411,Kim Inc,HealthTech,New,18,46,10137.25,Closed‑Won
+A00412,Graham Group,HealthTech,New,29,1,11910.45,Closed‑Won
+A00413,"Miller, Harrell and Reese",EdTech,New,33,30,19416.4,Closed‑Won
+A00414,Cook and Sons,HealthTech,Expansion,32,9,17589.75,Closed‑Won
+A00415,Dixon Inc,FinTech,New,21,15,24400.52,Negotiation
+A00416,"Hicks, Bullock and Bailey",CyberSecurity,Expansion,26,15,6906.77,Closed‑Won
+A00417,"Mullen, Brewer and Hernandez",SMB SaaS,New,21,37,14769.2,Negotiation
+A00418,Thomas and Sons,FinTech,Expansion,26,12,16829.05,Closed‑Won
+A00419,Morrison Ltd,EdTech,New,23,15,19297.86,Closed‑Won
+A00420,Thompson Ltd,E‑Commerce,New,21,14,14354.97,Negotiation
+A00421,Marshall-Elliott,SMB SaaS,Expansion,19,22,14509.77,Closed‑Won
+A00422,"Cole, Glass and Cunningham",CyberSecurity,New,25,39,17428.66,Closed‑Won
+A00423,"Downs, Morris and Maddox",Logistics,New,28,24,12887.78,Closed‑Won
+A00424,Hernandez-Jones,E‑Commerce,New,33,20,12425.43,On‑Hold
+A00425,Welch-Hogan,MarTech,New,24,31,16771.85,Closed‑Won
+A00426,"Brown, Romero and Collins",HealthTech,New,9,37,11858.98,Closed‑Won
+A00427,Johnson-Wood,Logistics,New,23,1,17807.32,Closed‑Won
+A00428,Jones-Lin,Logistics,New,15,53,9572.96,Closed‑Lost
+A00429,Gilbert PLC,FinTech,Expansion,6,55,13076.57,Closed‑Won
+A00430,Ford-Spencer,CyberSecurity,New,8,36,13588.88,Closed‑Won
+A00431,"Huang, Cole and Pacheco",FinTech,New,23,34,18520.17,Closed‑Won
+A00432,"Lopez, Jacobs and Mason",CyberSecurity,New,34,41,16614.9,Closed‑Won
+A00433,Hayes LLC,Logistics,New,21,27,20893.47,Closed‑Won
+A00434,"Miller, Lucas and Williams",HealthTech,New,19,22,21189.74,Closed‑Won
+A00435,"Kim, Gonzales and Mills",MarTech,Expansion,8,21,21459.92,Closed‑Won
+A00436,Cox LLC,FinTech,Expansion,26,10,14777.95,Closed‑Won
+A00437,Ortiz-Morgan,E‑Commerce,New,7,50,14563.32,Negotiation
+A00438,"Williams, Mccoy and Cook",SMB SaaS,New,31,19,10102.07,Closed‑Won
+A00439,Davis-Gregory,FinTech,New,30,17,12534.93,Negotiation
+A00440,King-York,MarTech,New,35,57,11346.31,Closed‑Won
+A00441,"Marks, Cook and Aguilar",SMB SaaS,New,14,30,9189.23,Closed‑Won
+A00442,Rangel LLC,EdTech,New,10,37,15772.82,Closed‑Won
+A00443,"Hale, Myers and Larson",HealthTech,New,14,15,23021.87,Closed‑Won
+A00444,Collins Group,MarTech,New,29,17,19694.85,Closed‑Won
+A00445,"Conner, Li and Santiago",E‑Commerce,New,12,43,19117.35,Closed‑Won
+A00446,"Osborn, Gaines and Davis",CyberSecurity,New,32,27,9743.78,Closed‑Won
+A00447,"Henderson, Cox and Cox",EdTech,New,10,9,22102.93,Closed‑Won
+A00448,Bean LLC,SMB SaaS,New,7,50,8243.8,Closed‑Lost
+A00449,Lee-Cooke,E‑Commerce,Expansion,12,24,11454.5,Closed‑Won
+A00450,Jones Inc,EdTech,New,28,40,9542.22,Closed‑Won
+A00451,"Wise, Conley and Stephenson",SMB SaaS,New,24,21,20974.76,Closed‑Won
+A00452,Stanley PLC,SMB SaaS,New,16,34,18753.01,Closed‑Lost
+A00453,Harper and Sons,MarTech,Expansion,25,46,12356.07,Closed‑Won
+A00454,White Ltd,FinTech,New,25,53,19560.91,Closed‑Won
+A00455,"Lamb, Martin and Kim",E‑Commerce,Expansion,22,13,13522.36,Closed‑Won
+A00456,Diaz-Ball,E‑Commerce,Expansion,21,40,12442.42,Closed‑Won
+A00457,Bishop-Goodwin,HealthTech,New,9,54,17232.74,Negotiation
+A00458,Young-Allen,CyberSecurity,New,13,38,6228.94,Closed‑Won
+A00459,Mckee-Lee,Logistics,New,21,9,16543.19,Closed‑Won
+A00460,"Valentine, Joyce and Murray",FinTech,Expansion,10,12,13032.12,Closed‑Won
+A00461,Strickland-Shaw,CyberSecurity,New,20,12,14591.0,Closed‑Won
+A00462,Burch-Montoya,HealthTech,Expansion,9,7,17581.84,Closed‑Won
+A00463,"Taylor, Wright and Davidson",CyberSecurity,New,29,45,15909.89,Negotiation
+A00464,Spencer-Garcia,MarTech,New,9,57,12604.03,Closed‑Won
+A00465,"Rosales, Mitchell and Hines",FinTech,New,8,31,14557.41,Closed‑Won
+A00466,Cole-Palmer,SMB SaaS,New,25,36,13912.87,Closed‑Won
+A00467,Davis-Lozano,HealthTech,New,12,46,12694.27,Closed‑Won
+A00468,Wilkerson-Arias,E‑Commerce,New,16,25,8784.48,Closed‑Won
+A00469,Brown-Shaw,HealthTech,Expansion,15,28,16305.8,Closed‑Won
+A00470,Hughes Inc,SMB SaaS,Expansion,12,35,20564.98,Closed‑Won
+A00471,Walker-Flores,CyberSecurity,New,28,18,21128.54,Negotiation
+A00472,Combs Ltd,Logistics,New,26,4,15443.34,Closed‑Won
+A00473,Moody-Taylor,MarTech,New,13,34,13250.63,Closed‑Won
+A00474,Lowery-Kennedy,MarTech,Expansion,26,49,7574.59,Closed‑Lost
+A00475,Blake Group,CyberSecurity,New,27,5,4473.23,Closed‑Won
+A00476,Gilbert-Bullock,Logistics,Expansion,22,13,20469.37,Closed‑Won
+A00477,Scott and Sons,Logistics,New,23,16,18372.54,Closed‑Won
+A00478,"Bentley, Lynch and Henderson",FinTech,New,34,48,5458.45,Closed‑Won
+A00479,Young-Martinez,CyberSecurity,New,19,30,12616.57,Closed‑Won
+A00480,Barnes PLC,FinTech,New,17,32,7525.89,Closed‑Won
+A00481,Brown-Copeland,EdTech,Expansion,22,39,17033.84,Closed‑Won
+A00482,Carlson-Smith,Logistics,New,31,17,16659.5,Closed‑Won
+A00483,"Andrews, Higgins and Carter",EdTech,New,27,43,17993.53,Closed‑Won
+A00484,Mendez and Sons,Logistics,Expansion,8,2,17299.0,Closed‑Won
+A00485,"Butler, Beck and Miller",MarTech,Expansion,19,7,7551.16,Closed‑Won
+A00486,Jones-Fox,HealthTech,Expansion,28,49,12740.29,Closed‑Won
+A00487,"Hartman, Romero and Smith",EdTech,New,12,39,17627.99,Negotiation
+A00488,Williams-Hughes,E‑Commerce,New,35,11,13429.91,Closed‑Won
+A00489,King-Smith,Logistics,Expansion,30,26,13185.62,Closed‑Won
+A00490,Cooper Ltd,E‑Commerce,New,31,4,16156.61,Closed‑Won
+A00491,"Fuller, Ingram and Moss",SMB SaaS,New,8,40,16846.8,Closed‑Won
+A00492,Anderson-Bell,Logistics,Expansion,23,45,13232.71,Closed‑Won
+A00493,Li-Thompson,Logistics,New,21,17,18795.97,Closed‑Won
+A00494,"Marshall, Dominguez and Welch",E‑Commerce,New,24,21,16934.05,Closed‑Won
+A00495,Brown Group,EdTech,Expansion,31,14,16031.43,Closed‑Lost
+A00496,Carter Inc,MarTech,New,16,23,17467.28,Closed‑Won
+A00497,Blackwell LLC,FinTech,New,22,17,13108.44,Closed‑Won
+A00498,Robertson-Hays,EdTech,New,26,15,13598.98,Closed‑Won
+A00499,"Kennedy, Johnson and Lucas",SMB SaaS,New,28,26,11649.58,Closed‑Won
+A00500,Kelly-Norman,MarTech,New,29,51,15165.47,Closed‑Won
+A00501,"Rivera, Martinez and Richardson",FinTech,Expansion,16,46,9274.74,Closed‑Won
+A00502,Paul-Kline,CyberSecurity,Expansion,35,18,16125.58,Negotiation
+A00503,Morgan-Lopez,SMB SaaS,New,6,56,14166.41,Negotiation
+A00504,"Jimenez, Glass and Stone",Logistics,New,20,13,15943.84,Closed‑Won
+A00505,Acosta Inc,EdTech,Expansion,24,54,11623.42,Closed‑Won
+A00506,Morrison-Short,MarTech,New,7,19,17331.39,Negotiation
+A00507,"Carter, Garcia and Murphy",E‑Commerce,New,19,32,13982.46,Closed‑Won
+A00508,Parker-Morrison,HealthTech,New,23,12,16150.98,Closed‑Won
+A00509,Jackson-Wallace,EdTech,New,24,45,20739.0,Closed‑Won
+A00510,Williams-Berg,HealthTech,New,9,19,22020.23,Closed‑Won
+A00511,Mendez-Graham,SMB SaaS,New,14,52,11061.72,Closed‑Lost
+A00512,"Whitney, Gould and Jones",CyberSecurity,New,13,5,14725.95,Closed‑Won
+A00513,"Sullivan, Palmer and Brady",Logistics,New,25,30,15560.94,Closed‑Won
+A00514,Cisneros and Sons,Logistics,New,15,10,16077.19,Closed‑Won
+A00515,"Gregory, Kim and Martinez",SMB SaaS,New,23,53,10145.75,Closed‑Won
+A00516,Osborne LLC,FinTech,New,27,25,16516.76,Closed‑Won
+A00517,Reyes-Bradley,SMB SaaS,New,29,40,13445.68,Negotiation
+A00518,"Hernandez, Cole and Watson",FinTech,New,11,52,16784.14,Closed‑Won
+A00519,Hines-Berry,MarTech,New,33,32,10291.34,Closed‑Won
+A00520,"Richardson, Edwards and Ramirez",E‑Commerce,New,10,4,21030.6,Negotiation
+A00521,Johnson and Sons,EdTech,New,6,14,18013.73,Closed‑Won
+A00522,Holmes-Mcintyre,HealthTech,Expansion,7,13,14526.65,Closed‑Won
+A00523,Green LLC,HealthTech,New,12,54,17822.86,Closed‑Won
+A00524,"Griffin, Davies and Mitchell",Logistics,Expansion,32,54,16261.23,Closed‑Won
+A00525,Gonzalez-Taylor,EdTech,Expansion,12,29,14144.74,Closed‑Won
+A00526,Hayes Ltd,EdTech,New,26,53,13304.05,Closed‑Lost
+A00527,Osborn-Cochran,SMB SaaS,New,18,15,13849.49,Closed‑Lost
+A00528,Contreras-Mckinney,HealthTech,Expansion,7,41,18428.5,Closed‑Won
+A00529,"Daniels, Vance and York",SMB SaaS,New,19,24,20747.58,Closed‑Won
+A00530,"Mckinney, Graves and Thompson",SMB SaaS,New,6,15,11152.94,Closed‑Won
+A00531,Hicks-Martinez,E‑Commerce,New,20,15,8104.03,Closed‑Won
+A00532,Conner and Sons,HealthTech,New,22,25,19953.38,Closed‑Won
+A00533,Johnson-Spencer,HealthTech,New,21,21,13833.68,Negotiation
+A00534,Mcdonald-Bird,EdTech,Expansion,14,13,14304.73,Closed‑Won
+A00535,Salazar Inc,E‑Commerce,Expansion,28,20,8593.35,Closed‑Won
+A00536,Parker Ltd,HealthTech,New,23,8,16123.81,Negotiation
+A00537,"Mendoza, Jenkins and Ortiz",MarTech,Expansion,13,58,7525.54,Closed‑Won
+A00538,"Jones, Compton and Day",FinTech,New,19,23,21206.95,Closed‑Won
+A00539,Owens-Holmes,E‑Commerce,Expansion,9,7,11711.63,Closed‑Won
+A00540,Humphrey PLC,FinTech,New,33,34,17235.66,Closed‑Won
+A00541,"Matthews, Saunders and Anderson",CyberSecurity,Expansion,28,53,15341.43,On‑Hold
+A00542,"Bartlett, Brown and Martinez",FinTech,Expansion,14,22,18921.11,Closed‑Won
+A00543,Torres and Sons,HealthTech,New,26,50,12647.13,Closed‑Won
+A00544,Donovan-Perez,HealthTech,New,26,37,11271.8,Closed‑Won
+A00545,"Jacobson, Singleton and King",Logistics,Expansion,24,44,23188.24,Closed‑Won
+A00546,"Huber, Hill and Weber",FinTech,New,7,18,9422.06,Closed‑Won
+A00547,"Ferguson, Shaw and Jackson",MarTech,New,32,3,17305.39,Closed‑Won
+A00548,"Moore, Hopkins and Le",E‑Commerce,Expansion,34,21,11706.72,Closed‑Won
+A00549,"Morgan, Bradshaw and Williams",E‑Commerce,New,35,55,9233.88,Closed‑Won
+A00550,Miller Ltd,CyberSecurity,New,35,47,14836.76,Closed‑Won
+A00551,"Baker, Clark and Armstrong",Logistics,New,33,47,17014.06,Closed‑Won
+A00552,"Fowler, Jimenez and Burton",MarTech,New,28,52,10407.79,Closed‑Won
+A00553,May-Turner,Logistics,Expansion,7,23,15489.04,Closed‑Won
+A00554,Ballard Ltd,EdTech,New,19,20,12177.8,Closed‑Won
+A00555,Evans-Jones,SMB SaaS,New,13,55,15282.69,Negotiation
+A00556,Moore Group,E‑Commerce,New,12,34,21990.76,Closed‑Won
+A00557,Marshall-Peterson,CyberSecurity,Expansion,30,18,14687.65,Closed‑Won
+A00558,Edwards Ltd,SMB SaaS,New,30,17,20671.57,Negotiation
+A00559,Gross-Valencia,Logistics,Expansion,21,52,10069.26,Closed‑Won
+A00560,Anderson-Wood,Logistics,Expansion,28,4,14671.14,Negotiation
+A00561,"Rodriguez, Allen and Martinez",E‑Commerce,Expansion,9,4,14720.75,Closed‑Won
+A00562,Wright-Davis,FinTech,Expansion,12,44,20600.16,Closed‑Won
+A00563,Dougherty-Lin,MarTech,Expansion,31,1,18875.01,Closed‑Won
+A00564,Wright-Grimes,HealthTech,Expansion,19,11,13932.89,Closed‑Won
+A00565,Li PLC,SMB SaaS,New,22,59,18341.36,Closed‑Won
+A00566,"Edwards, Hines and Jimenez",HealthTech,Expansion,19,26,17120.26,Closed‑Won
+A00567,"Owens, Koch and Jimenez",HealthTech,New,12,43,12402.12,Closed‑Won
+A00568,Landry PLC,HealthTech,New,30,29,12660.63,Closed‑Won
+A00569,Levy-Lewis,CyberSecurity,Expansion,28,6,12964.88,Closed‑Won
+A00570,Williams-Campbell,E‑Commerce,Expansion,26,11,19317.66,Closed‑Won
+A00571,"Khan, Pena and Ruiz",SMB SaaS,Expansion,16,45,17312.38,Closed‑Won
+A00572,"Smith, Rodriguez and Anderson",MarTech,New,25,6,16833.35,Closed‑Won
+A00573,Luna-Gallagher,EdTech,New,34,36,21436.91,Closed‑Won
+A00574,Williams-Williams,FinTech,New,25,21,13809.04,Closed‑Won
+A00575,"Lee, Tran and Jones",FinTech,New,20,22,9964.35,Closed‑Won
+A00576,"Cole, Pierce and Bryan",EdTech,New,14,57,20322.13,Closed‑Won
+A00577,"Becker, Wilson and Hester",SMB SaaS,New,21,36,17965.4,Closed‑Won
+A00578,Brooks-Hatfield,E‑Commerce,New,17,37,8121.56,Closed‑Won
+A00579,"Mcmillan, Fischer and Gonzalez",SMB SaaS,Expansion,24,21,17907.3,Closed‑Won
+A00580,"Morales, Williams and Williams",FinTech,New,7,23,8968.09,Closed‑Won
+A00581,"Cook, Wells and Bryant",FinTech,Expansion,11,41,10131.22,Closed‑Won
+A00582,"Barry, Taylor and Velazquez",Logistics,New,29,3,17560.33,Negotiation
+A00583,Martin-Ewing,FinTech,New,17,15,21518.26,Closed‑Won
+A00584,"Kirby, Wheeler and Romero",FinTech,New,18,36,22131.49,Closed‑Won
+A00585,"Patel, Erickson and Evans",MarTech,New,22,37,12477.68,Closed‑Won
+A00586,Richardson Ltd,SMB SaaS,Expansion,19,6,15840.58,Closed‑Won
+A00587,Whitney PLC,CyberSecurity,New,28,47,17547.46,Closed‑Won
+A00588,Robles-Swanson,FinTech,New,13,33,14817.09,Closed‑Won
+A00589,"Soto, Carlson and Baker",Logistics,Expansion,28,15,11005.79,Closed‑Won
+A00590,"Patton, Parsons and Lane",Logistics,Expansion,12,45,8280.21,Closed‑Won
+A00591,"Williams, Castillo and Warren",Logistics,New,17,59,12825.52,Closed‑Won
+A00592,"Harvey, Randall and Hernandez",SMB SaaS,New,23,25,16109.45,Closed‑Won
+A00593,"Allen, Armstrong and Graves",HealthTech,New,32,17,13053.61,Closed‑Won
+A00594,Smith LLC,SMB SaaS,New,12,18,22967.37,Closed‑Won
+A00595,Hernandez-Vaughn,EdTech,New,23,35,16868.31,Negotiation
+A00596,Shaw-Carr,Logistics,New,7,3,18116.08,Closed‑Won
+A00597,Salas-Fitzgerald,E‑Commerce,Expansion,8,29,14033.2,Negotiation
+A00598,Thornton PLC,Logistics,New,29,2,18920.91,Closed‑Won
+A00599,Hoffman Ltd,CyberSecurity,New,27,3,17809.25,Closed‑Lost
+A00600,Fox-Edwards,CyberSecurity,New,17,26,14286.33,Negotiation
+A00601,Stevens PLC,E‑Commerce,Expansion,24,44,8550.57,Closed‑Won
+A00602,Payne-Lowe,Logistics,New,17,53,17529.77,Closed‑Won
+A00603,"Becker, Lara and Baker",CyberSecurity,Expansion,14,6,18067.37,Closed‑Won
+A00604,Lee-Wright,HealthTech,Expansion,18,15,4105.87,Closed‑Won
+A00605,"Evans, David and Hendrix",Logistics,New,15,25,19558.46,Closed‑Won
+A00606,Bush-Vaughn,E‑Commerce,New,30,34,10498.41,Closed‑Won
+A00607,Stewart-Bailey,EdTech,New,18,59,14825.19,Negotiation
+A00608,"Hill, Martinez and Rhodes",E‑Commerce,New,15,41,22136.95,Closed‑Won
+A00609,Huang-Foster,SMB SaaS,Expansion,22,32,18721.66,Closed‑Won
+A00610,Blevins-Ballard,Logistics,New,28,4,19248.99,Closed‑Won
+A00611,Williams-Moses,Logistics,Expansion,14,5,14394.74,Closed‑Won
+A00612,Reed Group,MarTech,New,34,10,19993.3,Closed‑Won
+A00613,"Scott, Mendoza and Harris",Logistics,New,19,39,11679.52,Closed‑Won
+A00614,"Nelson, Hoffman and Nelson",MarTech,New,25,20,13104.31,Closed‑Won
+A00615,Gilbert PLC,CyberSecurity,New,34,15,11013.95,Closed‑Won
+A00616,Sanchez Ltd,CyberSecurity,New,18,40,10972.23,Closed‑Won
+A00617,"Perez, Hall and Garcia",HealthTech,New,11,49,21178.12,Closed‑Won
+A00618,Love-Garcia,EdTech,New,28,26,16633.93,Negotiation
+A00619,Smith PLC,FinTech,Expansion,6,53,17487.11,Closed‑Lost
+A00620,Russell Group,HealthTech,New,19,44,20023.93,Negotiation
+A00621,Santos-Avila,MarTech,Expansion,35,43,25332.43,Closed‑Won
+A00622,Morris-Brewer,MarTech,New,18,52,9448.79,Closed‑Won
+A00623,Pearson and Sons,HealthTech,New,26,11,9553.18,Closed‑Won
+A00624,"Rodgers, Jefferson and Johnson",MarTech,New,21,45,12998.05,Negotiation
+A00625,Butler and Sons,E‑Commerce,New,12,57,18101.44,Closed‑Won
+A00626,Osborn Group,HealthTech,New,15,59,12313.72,Negotiation
+A00627,Lopez-Curry,EdTech,New,21,35,27495.34,Negotiation
+A00628,Mcdowell-Smith,EdTech,Expansion,9,45,16862.75,Closed‑Won
+A00629,"Morrison, Hebert and Rogers",E‑Commerce,New,18,53,15220.83,Closed‑Won
+A00630,Hays-Daniels,EdTech,New,18,51,13503.12,Closed‑Won
+A00631,Small-Anderson,CyberSecurity,New,31,53,15583.93,Closed‑Won
+A00632,"Mcdonald, Lee and Rodriguez",EdTech,New,9,50,16267.48,Closed‑Won
+A00633,Simon Ltd,MarTech,New,31,23,14474.13,Closed‑Won
+A00634,Higgins-Smith,MarTech,New,18,44,15883.3,Closed‑Won
+A00635,Gibbs-Bradley,HealthTech,New,25,25,22179.26,Closed‑Won
+A00636,Thompson Ltd,CyberSecurity,New,22,48,12794.7,Negotiation
+A00637,Wilcox-Robertson,HealthTech,Expansion,14,48,18375.47,Closed‑Won
+A00638,Morales Inc,EdTech,New,33,56,15800.6,Closed‑Lost
+A00639,Holden Group,Logistics,Expansion,12,35,9325.76,Closed‑Won
+A00640,Boyle-Smith,SMB SaaS,New,7,29,13622.3,Closed‑Won
+A00641,Young-Molina,CyberSecurity,New,28,10,11520.76,Closed‑Won
+A00642,Turner-Sharp,SMB SaaS,Expansion,24,38,16664.19,Closed‑Won
+A00643,Green LLC,Logistics,New,32,34,17035.57,Closed‑Won
+A00644,"Young, Contreras and Marshall",MarTech,Expansion,19,31,17080.2,Negotiation
+A00645,Sullivan PLC,Logistics,New,6,40,15751.92,Closed‑Won
+A00646,"Carrillo, Vaughn and Fowler",EdTech,New,6,51,14385.12,Closed‑Won
+A00647,Richardson-Walker,MarTech,Expansion,18,9,13266.02,Closed‑Won
+A00648,Mendoza Group,E‑Commerce,New,13,26,17314.13,Closed‑Won
+A00649,"Zhang, Brooks and Miles",SMB SaaS,New,33,43,21126.43,Closed‑Won
+A00650,Todd-Pham,Logistics,New,9,49,17770.61,Closed‑Won
+A00651,Gill Ltd,MarTech,New,32,46,16081.4,Negotiation
+A00652,"Marks, Miller and Griffin",CyberSecurity,Expansion,12,48,18274.05,Closed‑Won
+A00653,"Cox, Stark and Rodriguez",HealthTech,New,9,51,11997.89,Closed‑Won
+A00654,"Leach, Harris and Herrera",Logistics,New,14,57,17814.87,Closed‑Won
+A00655,Murphy PLC,E‑Commerce,Expansion,10,36,13869.27,Closed‑Won
+A00656,Wilson-Harris,E‑Commerce,New,18,15,12702.71,Closed‑Won
+A00657,"Burns, Nolan and Griffin",Logistics,Expansion,15,34,9467.95,Closed‑Won
+A00658,Chavez PLC,CyberSecurity,New,21,42,19548.5,Negotiation
+A00659,Bryant-Brown,FinTech,New,22,6,14595.61,Closed‑Won
+A00660,Chambers-Parker,EdTech,Expansion,6,45,16483.37,Closed‑Won
+A00661,Foster Inc,HealthTech,New,9,33,17749.91,Closed‑Won
+A00662,"Robinson, Jones and Henderson",CyberSecurity,New,10,56,14388.51,Closed‑Won
+A00663,"Brown, Mcknight and Michael",FinTech,New,11,13,14031.55,Closed‑Won
+A00664,Andersen Group,HealthTech,Expansion,8,54,15941.22,Closed‑Won
+A00665,Mitchell and Sons,E‑Commerce,Expansion,15,27,13323.26,Closed‑Won
+A00666,Cannon Ltd,CyberSecurity,New,22,34,12281.95,Closed‑Won
+A00667,"Stuart, Brooks and Vance",E‑Commerce,New,15,39,19999.92,Closed‑Won
+A00668,Kane-Knox,Logistics,Expansion,15,35,13420.27,Closed‑Won
+A00669,Miller-Brandt,SMB SaaS,New,20,54,11400.05,Negotiation
+A00670,"Anderson, Dalton and Wilson",HealthTech,New,22,10,19978.36,Closed‑Won
+A00671,"Long, Anderson and Irwin",SMB SaaS,New,15,44,14221.58,Closed‑Won
+A00672,Avila LLC,E‑Commerce,New,12,58,7817.28,Closed‑Won
+A00673,Nunez-Stephens,CyberSecurity,Expansion,18,13,13048.43,Closed‑Won
+A00674,"Gray, Hall and Murray",FinTech,Expansion,6,16,15356.67,Closed‑Won
+A00675,Hill Ltd,E‑Commerce,Expansion,20,29,19633.34,Closed‑Won
+A00676,Johnson Ltd,CyberSecurity,New,34,43,12930.84,Closed‑Won
+A00677,Mendez-Mayer,E‑Commerce,New,17,57,12622.45,Closed‑Won
+A00678,Allen Inc,FinTech,New,9,47,19249.93,Closed‑Won
+A00679,Wheeler Group,E‑Commerce,New,27,47,13014.42,Closed‑Lost
+A00680,"Powers, Brennan and Sanchez",SMB SaaS,New,9,27,12155.94,Closed‑Won
+A00681,Morales and Sons,CyberSecurity,New,11,39,9609.73,Closed‑Won
+A00682,"Robinson, Shields and Brown",HealthTech,New,10,13,11530.09,Negotiation
+A00683,"Holder, Young and Hendricks",SMB SaaS,New,32,28,19117.7,Closed‑Won
+A00684,"Flores, Harper and Chambers",SMB SaaS,Expansion,35,12,14041.4,Closed‑Won
+A00685,Young-Walter,HealthTech,New,23,2,14982.29,Closed‑Won
+A00686,"Boyd, Gutierrez and Hill",Logistics,New,24,51,19738.49,Negotiation
+A00687,"Fry, Hobbs and Buck",MarTech,Expansion,25,48,13730.53,Closed‑Won
+A00688,"Shelton, Peters and Williams",E‑Commerce,Expansion,24,31,10884.1,Closed‑Won
+A00689,David-Powers,MarTech,Expansion,22,1,20638.53,Closed‑Won
+A00690,"Flores, Butler and Hernandez",Logistics,New,35,6,11438.56,Closed‑Won
+A00691,White-Medina,SMB SaaS,Expansion,27,7,20047.57,Closed‑Won
+A00692,Atkinson LLC,Logistics,New,8,43,12187.02,Closed‑Won
+A00693,"Thomas, Ford and Brown",SMB SaaS,New,17,13,14647.41,Closed‑Won
+A00694,Faulkner-Grant,SMB SaaS,New,35,15,15601.15,Closed‑Won
+A00695,Price LLC,FinTech,New,18,51,9435.15,Closed‑Won
+A00696,Rivera Inc,EdTech,New,12,52,13391.49,Closed‑Won
+A00697,Boone-Davis,CyberSecurity,New,32,46,15263.81,Closed‑Won
+A00698,"Calderon, Williams and Bennett",E‑Commerce,Expansion,24,19,11665.63,Closed‑Won
+A00699,"Morrison, Russo and Lopez",FinTech,New,22,35,15423.15,Closed‑Won
+A00700,"Ramsey, Hansen and Mendoza",FinTech,New,18,12,14347.25,Closed‑Won
+A00701,Turner-Stout,E‑Commerce,New,9,51,12086.64,Closed‑Won
+A00702,Giles Ltd,E‑Commerce,New,17,6,13737.36,Closed‑Lost
+A00703,Burgess Group,HealthTech,New,19,44,19227.22,Closed‑Won
+A00704,Dominguez Ltd,HealthTech,New,33,31,13551.35,Closed‑Won
+A00705,Sanders and Sons,HealthTech,New,15,45,12128.82,Closed‑Won
+A00706,"Morris, Campbell and Owens",E‑Commerce,Expansion,10,27,18647.43,Negotiation
+A00707,"Howard, Green and Hunt",FinTech,Expansion,18,10,17480.77,Closed‑Won
+A00708,Owens-Lang,E‑Commerce,New,35,45,16577.97,Closed‑Won
+A00709,"Harrison, Franco and Rocha",MarTech,New,20,38,11261.95,Closed‑Won
+A00710,Edwards-Williams,MarTech,Expansion,17,28,13571.98,Closed‑Won
+A00711,Figueroa Inc,CyberSecurity,Expansion,26,22,12902.84,Closed‑Won
+A00712,Tran-Silva,E‑Commerce,New,25,21,11678.97,Closed‑Won
+A00713,"Butler, Hernandez and Rivera",CyberSecurity,Expansion,14,29,10622.1,Negotiation
+A00714,Hudson-Sanchez,Logistics,Expansion,35,16,9910.75,Closed‑Won
+A00715,"Pena, Cohen and Scott",SMB SaaS,Expansion,23,17,20154.32,Closed‑Lost
+A00716,Levy-May,Logistics,New,7,17,20259.96,Closed‑Won
+A00717,Murray-Oconnor,E‑Commerce,New,18,1,17514.39,Closed‑Won
+A00718,Jackson-Cortez,MarTech,New,33,55,11791.2,Closed‑Won
+A00719,White-Preston,HealthTech,New,17,14,4180.3,Closed‑Won
+A00720,"Bernard, Warren and Combs",E‑Commerce,New,23,10,16002.32,On‑Hold
+A00721,Landry Ltd,HealthTech,New,24,9,11881.91,Closed‑Won
+A00722,Duran Group,SMB SaaS,New,27,59,13842.88,Closed‑Won
+A00723,Kirby and Sons,Logistics,New,32,29,23071.73,Closed‑Won
+A00724,Mann Inc,FinTech,Expansion,10,20,7760.83,On‑Hold
+A00725,Wagner LLC,Logistics,New,21,24,12848.66,Closed‑Won
+A00726,Williamson Ltd,FinTech,New,22,6,10519.02,Closed‑Won
+A00727,"Durham, Hopkins and Smith",CyberSecurity,Expansion,10,19,14890.69,Closed‑Won
+A00728,"Arnold, Smith and Moreno",FinTech,Expansion,26,15,18657.34,Closed‑Won
+A00729,Nichols-Mitchell,MarTech,Expansion,9,48,13330.34,Closed‑Lost
+A00730,"Li, Craig and Drake",CyberSecurity,Expansion,19,4,11840.13,Closed‑Won
+A00731,Rodriguez Inc,CyberSecurity,Expansion,15,26,12636.91,Closed‑Won
+A00732,"Hernandez, Lee and Fox",MarTech,New,10,47,14312.44,Closed‑Won
+A00733,Adams-Sanders,SMB SaaS,New,30,50,17333.31,Closed‑Won
+A00734,Chung-Stevens,Logistics,New,13,31,12909.53,Closed‑Won
+A00735,Branch and Sons,HealthTech,New,13,14,16300.43,Closed‑Won
+A00736,Sutton-Abbott,CyberSecurity,Expansion,31,20,19752.82,Closed‑Won
+A00737,"Frey, Santos and Johnson",CyberSecurity,New,32,14,14753.37,Closed‑Won
+A00738,Gray-Tran,EdTech,New,7,40,12190.28,On‑Hold
+A00739,Walsh Ltd,CyberSecurity,New,14,18,14722.87,Closed‑Won
+A00740,Miller Group,SMB SaaS,New,27,38,10666.02,Closed‑Won
+A00741,"Mueller, Knight and Hodge",Logistics,New,29,39,20229.69,Closed‑Won
+A00742,Jacobson Inc,Logistics,New,35,56,14575.69,Closed‑Won
+A00743,Lewis Ltd,CyberSecurity,Expansion,22,22,12797.95,Closed‑Won
+A00744,"Alvarez, Williams and Jones",EdTech,New,6,57,10359.49,On‑Hold
+A00745,Lam-Elliott,Logistics,Expansion,32,24,24956.89,Closed‑Won
+A00746,White LLC,EdTech,New,10,41,15914.48,Closed‑Won
+A00747,Ali PLC,E‑Commerce,New,9,40,11491.65,Closed‑Won
+A00748,Goodwin Ltd,EdTech,New,26,49,11148.83,Closed‑Won
+A00749,Hickman-Evans,EdTech,Expansion,24,28,20007.21,Closed‑Won
+A00750,"Allen, Davenport and Price",HealthTech,New,7,47,16769.31,Closed‑Won
+A00751,"Rivera, Campos and Taylor",SMB SaaS,Expansion,11,21,15956.78,Closed‑Won
+A00752,"Ramsey, Mason and Mccann",HealthTech,New,23,29,17351.89,Closed‑Won
+A00753,Davis and Sons,FinTech,New,13,30,13870.09,Closed‑Won
+A00754,Peterson PLC,SMB SaaS,Expansion,26,42,15197.89,Closed‑Won
+A00755,"Sanders, Ayala and Johnson",E‑Commerce,New,18,37,18081.42,Closed‑Won
+A00756,Bowers-Hayes,MarTech,New,23,5,19203.76,On‑Hold
+A00757,Kelly Group,CyberSecurity,Expansion,20,48,14057.3,Negotiation
+A00758,Lopez-Willis,MarTech,New,16,45,14571.79,Closed‑Won
+A00759,Miller-Montgomery,HealthTech,New,16,7,16991.73,Closed‑Won
+A00760,Marquez Inc,CyberSecurity,New,26,57,18607.59,Closed‑Won
+A00761,Moore-Dawson,HealthTech,New,21,39,13196.56,Closed‑Won
+A00762,"Moore, Price and Ward",E‑Commerce,Expansion,23,6,13751.52,Closed‑Won
+A00763,Smith LLC,SMB SaaS,Expansion,23,29,16778.88,Closed‑Won
+A00764,Ward-Nelson,SMB SaaS,New,12,50,12932.29,Closed‑Won
+A00765,Miller Group,EdTech,Expansion,33,17,19306.27,Closed‑Lost
+A00766,Hawkins-Hunt,Logistics,New,22,56,14726.55,Closed‑Won
+A00767,Johnson LLC,E‑Commerce,New,27,25,14656.41,Closed‑Won
+A00768,"Davis, George and Nguyen",MarTech,New,32,14,15407.88,Closed‑Won
+A00769,Smith-Gutierrez,HealthTech,Expansion,33,22,18993.72,Closed‑Won
+A00770,Hardy PLC,MarTech,New,26,31,10246.96,Closed‑Won
+A00771,Armstrong and Sons,CyberSecurity,New,29,41,13832.55,Closed‑Won
+A00772,"James, Taylor and Turner",SMB SaaS,New,20,55,17099.36,Closed‑Won
+A00773,Thomas-Jackson,FinTech,Expansion,28,12,12751.37,Closed‑Won
+A00774,Fisher-Washington,CyberSecurity,New,15,57,15488.95,Closed‑Lost
+A00775,Ward and Sons,Logistics,New,27,32,14190.79,Closed‑Won
+A00776,"Weber, Wheeler and Gonzalez",SMB SaaS,Expansion,8,8,20874.7,Closed‑Won
+A00777,Taylor Inc,MarTech,New,33,55,16712.45,Closed‑Won
+A00778,Cook-Oliver,FinTech,New,13,21,12416.23,Closed‑Won
+A00779,Alexander-Jordan,EdTech,New,25,37,21724.02,Closed‑Won
+A00780,"Mccann, Taylor and Flores",Logistics,New,6,42,10308.12,Closed‑Won
+A00781,"Harris, Edwards and Oconnell",SMB SaaS,New,10,1,12194.3,Closed‑Won
+A00782,Carter-Neal,CyberSecurity,Expansion,35,14,13048.82,Closed‑Won
+A00783,Faulkner-Casey,FinTech,New,31,41,4509.36,Negotiation
+A00784,Bennett-Velasquez,FinTech,New,12,20,8379.82,Closed‑Won
+A00785,Diaz-Frederick,MarTech,Expansion,9,1,14808.18,Closed‑Won
+A00786,Vargas PLC,E‑Commerce,New,30,2,17211.99,Closed‑Won
+A00787,Maldonado PLC,FinTech,New,35,49,15171.36,Closed‑Won
+A00788,Benton Group,CyberSecurity,Expansion,11,10,18320.8,Closed‑Lost
+A00789,"Clark, Salinas and Guerra",E‑Commerce,New,25,6,16035.27,Closed‑Won
+A00790,Fuentes Group,FinTech,Expansion,14,34,13683.93,Closed‑Won
+A00791,"Porter, Schultz and Allen",FinTech,Expansion,28,8,15402.46,Closed‑Won
+A00792,"Moore, Henderson and Bennett",MarTech,New,18,39,17570.24,Closed‑Won
+A00793,Ewing-Mendoza,CyberSecurity,New,9,33,15622.13,Closed‑Won
+A00794,Ferguson-Mclean,Logistics,New,15,39,16196.2,Closed‑Won
+A00795,"Barnes, Johnson and Schmitt",MarTech,New,22,30,19653.12,Closed‑Won
+A00796,"Woodard, Herrera and Little",EdTech,New,29,46,19504.29,Closed‑Won
+A00797,Rodriguez and Sons,SMB SaaS,New,6,39,10510.95,Closed‑Won
+A00798,"Ortega, Jackson and Salazar",MarTech,Expansion,34,25,6495.81,Closed‑Won
+A00799,"Terrell, Byrd and Ross",EdTech,Expansion,25,1,10549.24,Closed‑Won
+A00800,Sheppard-Jordan,MarTech,Expansion,32,17,13246.05,Negotiation
+A00801,Garcia and Sons,FinTech,New,33,8,16941.75,Closed‑Won
+A00802,"Burgess, Grant and Watts",EdTech,New,10,1,12886.53,Negotiation
+A00803,Griffin Group,E‑Commerce,New,8,17,7968.61,Closed‑Won
+A00804,Barton-Chapman,SMB SaaS,New,29,13,15842.29,Closed‑Won
+A00805,"Hernandez, Cuevas and Webb",CyberSecurity,Expansion,11,5,15941.31,Closed‑Won
+A00806,Perry-Nixon,Logistics,New,10,19,13059.32,Closed‑Won
+A00807,Guerra Ltd,E‑Commerce,New,20,30,22668.38,Closed‑Won
+A00808,Bailey LLC,FinTech,Expansion,33,11,14775.27,Negotiation
+A00809,Mueller-Boyd,MarTech,New,29,17,11244.68,Closed‑Lost
+A00810,Alvarez-Kim,SMB SaaS,New,21,2,17766.45,Closed‑Won
+A00811,"Chavez, Jones and Williams",FinTech,New,11,3,16649.15,On‑Hold
+A00812,"Wilson, Sweeney and Wong",SMB SaaS,New,16,10,15709.64,Closed‑Won
+A00813,"Marsh, Spears and Yang",CyberSecurity,Expansion,26,27,18403.19,Closed‑Won
+A00814,"Thompson, Moore and Castro",EdTech,New,10,40,13846.92,Closed‑Won
+A00815,Hall-Sullivan,Logistics,Expansion,21,47,15726.58,Closed‑Won
+A00816,Lopez Ltd,Logistics,Expansion,6,38,16113.98,Closed‑Won
+A00817,Foster-Mclaughlin,FinTech,Expansion,15,37,16691.03,Closed‑Won
+A00818,Cole Group,FinTech,New,13,56,21308.4,Closed‑Won
+A00819,Smith-Lewis,CyberSecurity,New,26,16,20905.43,Closed‑Won
+A00820,Goodwin-Stokes,SMB SaaS,Expansion,33,48,9713.73,Closed‑Lost
+A00821,Ray PLC,FinTech,New,10,56,17106.07,Negotiation
+A00822,Diaz and Sons,CyberSecurity,New,29,34,11626.06,Closed‑Won
+A00823,Wilson-Lambert,HealthTech,Expansion,25,50,13975.42,Closed‑Won
+A00824,Rose-Fowler,CyberSecurity,New,35,9,13070.32,Closed‑Won
+A00825,"Price, Long and Wilson",E‑Commerce,Expansion,33,52,19927.35,Negotiation
+A00826,Bruce-Williamson,FinTech,Expansion,9,34,19294.14,Closed‑Won
+A00827,"Mccarthy, Evans and Mendez",CyberSecurity,Expansion,28,14,13298.36,Closed‑Won
+A00828,Powers LLC,SMB SaaS,New,23,4,11498.02,Closed‑Won
+A00829,Allen Inc,Logistics,Expansion,9,43,14962.63,Closed‑Won
+A00830,Brooks and Sons,FinTech,New,13,26,10654.85,Closed‑Won
+A00831,"Price, Carlson and Andrews",HealthTech,Expansion,33,19,15727.71,Closed‑Won
+A00832,Lopez-Reid,HealthTech,Expansion,22,24,11095.66,Closed‑Won
+A00833,"Ellison, Arias and Thompson",MarTech,Expansion,16,59,15147.05,Closed‑Won
+A00834,Burns and Sons,HealthTech,New,15,26,13762.72,Closed‑Won
+A00835,Edwards Group,Logistics,New,31,5,12702.23,Closed‑Won
+A00836,"Brown, Howard and Smith",Logistics,New,14,17,15810.91,Closed‑Lost
+A00837,Lee Group,Logistics,New,10,9,13104.84,Negotiation
+A00838,"Wagner, Simpson and Cohen",HealthTech,New,23,41,9066.74,Closed‑Won
+A00839,Mckinney-Wallace,FinTech,New,35,48,14886.46,Closed‑Won
+A00840,Miller Inc,SMB SaaS,New,11,50,16615.8,Closed‑Won
+A00841,Carter LLC,EdTech,Expansion,13,38,12451.97,Closed‑Won
+A00842,Medina and Sons,CyberSecurity,Expansion,20,46,16049.86,Closed‑Won
+A00843,Cunningham-Barton,SMB SaaS,New,11,25,20160.49,Closed‑Won
+A00844,Dunn-Wilson,FinTech,Expansion,25,38,13271.1,On‑Hold
+A00845,Adams PLC,FinTech,New,13,7,20146.6,Closed‑Won
+A00846,Weaver-Sherman,FinTech,New,9,32,15521.6,Closed‑Won
+A00847,"Alexander, Robinson and Coleman",HealthTech,New,13,33,18395.97,Closed‑Won
+A00848,"Greer, Potter and Evans",FinTech,Expansion,33,2,9123.14,Closed‑Won
+A00849,Cole LLC,Logistics,Expansion,34,33,14431.89,Negotiation
+A00850,Gonzales Inc,E‑Commerce,Expansion,21,43,9885.43,Closed‑Won
+A00851,Clark Ltd,SMB SaaS,Expansion,18,22,18759.22,Negotiation
+A00852,"Norris, Callahan and Bishop",Logistics,Expansion,30,33,9553.8,Closed‑Won
+A00853,Martin-Taylor,SMB SaaS,New,11,17,13857.9,Closed‑Won
+A00854,Li Inc,HealthTech,New,25,16,13381.75,Closed‑Won
+A00855,"Bell, Campbell and Ryan",EdTech,New,26,8,17310.21,Closed‑Won
+A00856,Werner-Carter,Logistics,Expansion,27,20,16250.18,Closed‑Won
+A00857,"Adams, Hodge and Duke",HealthTech,New,12,48,13903.76,Closed‑Won
+A00858,"Ochoa, Taylor and Brady",FinTech,New,27,56,19074.99,Closed‑Won
+A00859,Sellers-Riddle,CyberSecurity,Expansion,24,38,16497.03,Closed‑Won
+A00860,"Martinez, Cline and Wright",Logistics,New,32,37,14007.1,Closed‑Won
+A00861,"Morris, Wright and Bridges",SMB SaaS,Expansion,11,37,15623.91,Negotiation
+A00862,Burns-Ray,SMB SaaS,New,24,29,16585.97,Closed‑Won
+A00863,Burton-Brooks,FinTech,Expansion,30,25,14881.43,Closed‑Won
+A00864,Schultz Inc,Logistics,Expansion,14,37,18009.7,Negotiation
+A00865,Robertson-Ramirez,Logistics,New,28,47,10603.03,Closed‑Won
+A00866,Gibson-Freeman,CyberSecurity,Expansion,8,25,13323.74,Closed‑Won
+A00867,"Smith, Schroeder and Oconnor",Logistics,New,27,34,10847.09,Negotiation
+A00868,"Stanton, Reid and Terry",Logistics,New,24,28,22310.4,Closed‑Won
+A00869,Flynn Group,MarTech,New,11,17,14466.44,Closed‑Won
+A00870,Donaldson and Sons,FinTech,Expansion,7,18,16192.08,Closed‑Won
+A00871,Adams-Clayton,MarTech,New,28,5,16586.56,Closed‑Won
+A00872,Kelley-Anderson,HealthTech,New,13,26,11561.93,Negotiation
+A00873,Kramer-Shannon,FinTech,Expansion,20,43,13565.08,Closed‑Won
+A00874,Williams Ltd,FinTech,New,7,41,15038.07,Closed‑Won
+A00875,Smith-Noble,CyberSecurity,New,34,59,11346.58,Closed‑Won
+A00876,Alexander Inc,E‑Commerce,New,22,3,15543.46,Closed‑Won
+A00877,Harris-Barker,E‑Commerce,New,33,45,17275.27,Closed‑Won
+A00878,Khan LLC,CyberSecurity,Expansion,10,47,21654.53,Negotiation
+A00879,Baxter LLC,E‑Commerce,New,12,26,15622.28,Closed‑Won
+A00880,Pena LLC,CyberSecurity,New,24,17,17195.79,Negotiation
+A00881,Watson Ltd,FinTech,Expansion,24,22,13165.51,Closed‑Won
+A00882,Williams Ltd,Logistics,New,29,41,11129.81,Closed‑Won
+A00883,Barber-Fischer,MarTech,Expansion,33,51,16753.92,Closed‑Won
+A00884,Rios-Padilla,HealthTech,New,30,38,16494.1,Closed‑Won
+A00885,Lewis Inc,Logistics,Expansion,10,31,13752.69,Closed‑Won
+A00886,Wheeler PLC,CyberSecurity,Expansion,15,39,9830.46,Closed‑Won
+A00887,"Wallace, Smith and Cooper",FinTech,Expansion,33,5,15156.14,Closed‑Won
+A00888,Mcneil Group,HealthTech,New,22,36,16854.35,Closed‑Won
+A00889,"Anderson, Jones and Reyes",FinTech,New,32,3,14551.68,Closed‑Won
+A00890,"Shaffer, Garcia and Richardson",EdTech,Expansion,22,57,20401.03,Closed‑Won
+A00891,Taylor-Ayala,FinTech,New,7,53,10664.75,Closed‑Lost
+A00892,May Ltd,CyberSecurity,New,20,30,9853.01,Closed‑Won
+A00893,Jones PLC,E‑Commerce,New,30,23,16121.85,Closed‑Won
+A00894,Bishop and Sons,SMB SaaS,Expansion,25,44,13549.39,Closed‑Won
+A00895,Bell-Lewis,CyberSecurity,Expansion,9,38,13212.99,Closed‑Won
+A00896,"Hernandez, Jenkins and Parks",E‑Commerce,New,12,42,11711.97,Closed‑Won
+A00897,Miller Inc,E‑Commerce,Expansion,31,31,14725.44,Closed‑Won
+A00898,Goodwin PLC,FinTech,New,35,14,21909.19,Closed‑Won
+A00899,"Cruz, Richmond and Edwards",FinTech,New,28,5,14042.26,Closed‑Won
+A00900,Wright Ltd,E‑Commerce,New,8,17,14114.09,Closed‑Won
+A00901,Wright PLC,FinTech,New,24,32,16827.27,Closed‑Won
+A00902,"Griffith, Mitchell and Pugh",FinTech,New,30,26,11685.61,Closed‑Won
+A00903,Abbott Ltd,HealthTech,Expansion,25,30,11902.44,Closed‑Won
+A00904,Harris-Lawson,SMB SaaS,Expansion,23,17,17475.23,Negotiation
+A00905,Adkins LLC,MarTech,New,20,56,16870.61,Closed‑Won
+A00906,"Brown, Hurst and Blevins",CyberSecurity,New,13,22,15257.88,Closed‑Won
+A00907,Cruz-Allen,MarTech,New,14,50,13140.15,Closed‑Won
+A00908,"Wheeler, Rice and Levine",HealthTech,Expansion,28,24,12695.29,Closed‑Won
+A00909,Peck-Anderson,EdTech,Expansion,8,27,10776.05,Closed‑Won
+A00910,"Fisher, Payne and Thompson",FinTech,Expansion,8,36,12973.9,Closed‑Won
+A00911,Best-Townsend,Logistics,New,17,16,13164.92,Negotiation
+A00912,Matthews Inc,HealthTech,New,29,13,18354.39,On‑Hold
+A00913,Lewis-Livingston,MarTech,New,25,23,7085.36,Negotiation
+A00914,Hunter-Fuller,SMB SaaS,New,23,48,10113.64,Closed‑Won
+A00915,"Wang, Henderson and Morales",E‑Commerce,New,22,9,18821.68,Closed‑Won
+A00916,"Herrera, Jensen and Ramirez",MarTech,New,9,26,17557.61,Closed‑Lost
+A00917,Miller-Mccall,E‑Commerce,Expansion,15,40,9542.77,Closed‑Won
+A00918,Herrera Group,Logistics,New,8,42,12479.59,Closed‑Won
+A00919,"Walters, Davenport and Becker",EdTech,New,28,26,9590.88,Closed‑Won
+A00920,Collins Group,CyberSecurity,Expansion,28,5,10849.41,Closed‑Won
+A00921,"Ashley, Allen and Sanchez",Logistics,New,13,1,9493.22,Negotiation
+A00922,Wilson-Salazar,E‑Commerce,Expansion,14,28,15434.15,Closed‑Won
+A00923,Parker Ltd,MarTech,New,15,48,17233.82,Closed‑Won
+A00924,"Yang, Wilson and Zimmerman",HealthTech,Expansion,32,2,14046.85,Closed‑Won
+A00925,"Smith, Crawford and Reed",HealthTech,New,20,53,19005.18,Closed‑Won
+A00926,"Logan, Le and Jackson",SMB SaaS,New,28,40,18339.26,Closed‑Won
+A00927,Brady LLC,E‑Commerce,Expansion,19,1,10632.52,Closed‑Won
+A00928,"Tanner, Wise and Johnson",EdTech,New,26,21,8976.56,Closed‑Won
+A00929,Nelson-Brown,MarTech,New,21,14,15471.81,Closed‑Won
+A00930,"Proctor, Burton and Crawford",E‑Commerce,New,14,57,20189.34,Closed‑Won
+A00931,"Ward, Porter and Bradley",E‑Commerce,New,32,33,16683.11,Closed‑Won
+A00932,Moore-Ayala,CyberSecurity,Expansion,27,20,17869.63,Closed‑Won
+A00933,"Craig, Wilson and Yang",EdTech,New,29,17,13338.94,Closed‑Won
+A00934,Williams Inc,CyberSecurity,New,34,34,19834.51,Closed‑Won
+A00935,Williams LLC,MarTech,New,13,1,5928.1,Closed‑Won
+A00936,Mora-White,SMB SaaS,Expansion,8,16,11205.28,Negotiation
+A00937,Tran Ltd,HealthTech,New,23,10,17173.6,Closed‑Won
+A00938,"Rios, Walker and Wright",HealthTech,New,15,37,15988.02,Closed‑Won
+A00939,"Flores, Mckenzie and Duncan",MarTech,Expansion,19,40,17284.58,Closed‑Won
+A00940,Shaw Inc,E‑Commerce,New,13,28,14377.48,On‑Hold
+A00941,Walker PLC,CyberSecurity,Expansion,17,9,13892.73,Closed‑Won
+A00942,Finley Inc,MarTech,New,17,22,11510.11,Closed‑Won
+A00943,Cline-Ayala,SMB SaaS,New,16,50,9011.8,Negotiation
+A00944,Murphy-Tran,MarTech,New,28,13,9467.95,Closed‑Won
+A00945,Wood LLC,HealthTech,Expansion,23,10,15909.67,Closed‑Won
+A00946,"Mueller, Stevenson and Sanchez",FinTech,New,20,7,17451.1,Closed‑Won
+A00947,Vargas-Snyder,SMB SaaS,New,9,49,13116.28,Negotiation
+A00948,Oconnor PLC,HealthTech,New,23,8,12629.61,Closed‑Won
+A00949,Hernandez Group,SMB SaaS,New,11,35,11351.23,Closed‑Won
+A00950,Hall LLC,EdTech,New,15,59,17721.94,Negotiation
+A00951,"Franco, Wiley and Tapia",FinTech,New,18,38,17302.43,Closed‑Won
+A00952,Blake Group,EdTech,New,10,25,7673.52,Closed‑Won
+A00953,"Acosta, Garcia and Moreno",E‑Commerce,New,17,13,19177.88,Closed‑Won
+A00954,Barnes Inc,MarTech,New,14,1,9666.04,Closed‑Won
+A00955,Dawson Inc,Logistics,New,31,10,17448.2,Closed‑Won
+A00956,Morse PLC,E‑Commerce,New,31,57,9334.65,Negotiation
+A00957,Haynes-Watson,MarTech,New,6,9,6923.7,Closed‑Won
+A00958,"Miller, Davis and Anderson",CyberSecurity,New,24,2,19298.44,Closed‑Won
+A00959,Jones-Bradley,SMB SaaS,New,25,49,25494.39,Closed‑Won
+A00960,Bates-Anderson,MarTech,New,17,25,17889.54,Closed‑Won
+A00961,Green-Edwards,HealthTech,New,20,22,14633.01,Closed‑Won
+A00962,Haynes-Moss,MarTech,New,29,43,15115.63,Closed‑Won
+A00963,Chavez-Hall,Logistics,Expansion,17,31,17409.82,Closed‑Won
+A00964,Taylor PLC,HealthTech,New,7,54,14910.59,Closed‑Won
+A00965,Moore and Sons,SMB SaaS,Expansion,17,28,16881.43,Closed‑Won
+A00966,Owens-Russell,E‑Commerce,New,13,43,13026.29,Closed‑Won
+A00967,"Howard, Townsend and Hayes",E‑Commerce,Expansion,17,52,14108.43,Closed‑Won
+A00968,Baker-Wilson,EdTech,New,12,28,8398.46,Closed‑Won
+A00969,Aguirre LLC,SMB SaaS,New,10,17,14938.64,Closed‑Won
+A00970,"Terry, Williams and Huff",FinTech,New,35,58,15070.62,Closed‑Lost
+A00971,Hernandez-Dawson,EdTech,Expansion,9,14,21798.41,Closed‑Won
+A00972,Foster-Williams,MarTech,New,27,3,21752.49,Closed‑Won
+A00973,Green-Ewing,MarTech,New,27,35,16250.63,Closed‑Won
+A00974,Crane Group,MarTech,New,24,59,12635.97,Closed‑Won
+A00975,"Adkins, Wright and Murray",HealthTech,Expansion,33,6,17680.49,Closed‑Won
+A00976,Martinez Inc,HealthTech,New,6,51,16277.43,Negotiation
+A00977,Anderson Group,FinTech,New,15,49,15863.62,Closed‑Won
+A00978,Parks-Pace,E‑Commerce,New,11,55,9593.93,Closed‑Won
+A00979,Aguilar LLC,EdTech,Expansion,23,25,17653.51,Closed‑Lost
+A00980,Johnson Inc,E‑Commerce,New,25,16,21108.67,Closed‑Won
+A00981,Orr Group,E‑Commerce,New,32,31,14577.52,Closed‑Won
+A00982,Davis LLC,CyberSecurity,Expansion,17,9,15588.59,Closed‑Won
+A00983,Williams Group,E‑Commerce,New,13,50,15288.26,Closed‑Won
+A00984,Jackson PLC,CyberSecurity,New,33,40,11536.1,Closed‑Won
+A00985,Underwood-Foster,E‑Commerce,New,26,29,16247.45,Closed‑Won
+A00986,Reyes Group,CyberSecurity,New,28,31,18788.55,Closed‑Won
+A00987,Gomez and Sons,E‑Commerce,New,19,43,18584.83,Closed‑Won
+A00988,Ramirez-Stephenson,EdTech,New,19,31,15411.55,Closed‑Won
+A00989,Mendez PLC,HealthTech,Expansion,17,50,11716.39,Closed‑Won
+A00990,Holland Group,Logistics,Expansion,28,55,10775.09,Closed‑Won
+A00991,Andrade-Mendoza,EdTech,New,12,57,16267.79,Closed‑Won
+A00992,Ramirez and Sons,E‑Commerce,New,35,37,13853.1,Closed‑Won
+A00993,Gonzalez-Wilkerson,HealthTech,New,11,44,10485.9,Closed‑Won
+A00994,"Wright, Mcknight and Stephens",MarTech,Expansion,19,19,15196.48,Closed‑Won
+A00995,Mayo Ltd,E‑Commerce,New,15,3,22279.88,Closed‑Won
+A00996,Castillo-Harrington,CyberSecurity,New,25,24,10992.64,Negotiation
+A00997,Durham-Shaw,E‑Commerce,New,26,52,11656.76,Closed‑Won
+A00998,Nelson-Johnson,EdTech,New,33,8,16618.59,Closed‑Won
+A00999,"Robinson, Huang and Osborne",SMB SaaS,New,29,33,10075.84,Closed‑Won
+A01000,Stokes Group,E‑Commerce,Expansion,13,12,14693.75,Negotiation
+A01001,"Howard, Silva and Hall",Logistics,New,12,26,13492.52,Closed‑Won
+A01002,Garcia Ltd,CyberSecurity,Expansion,32,9,19374.5,Negotiation
+A01003,Adams Ltd,E‑Commerce,New,20,44,17403.56,Closed‑Won
+A01004,Gallagher and Sons,SMB SaaS,Expansion,8,48,12703.27,Closed‑Won
+A01005,"Bradford, Salinas and Kelly",HealthTech,Expansion,30,45,16255.61,Closed‑Won
+A01006,Thompson PLC,SMB SaaS,Expansion,25,42,16385.76,Closed‑Won
+A01007,Drake-Wolfe,Logistics,New,6,14,14429.34,Closed‑Won
+A01008,"Johnson, Haynes and Meza",E‑Commerce,New,29,32,24018.77,Closed‑Won
+A01009,"Thomas, Vaughan and Copeland",CyberSecurity,New,24,7,15679.99,Closed‑Won
+A01010,Weaver-Thompson,E‑Commerce,New,24,23,24155.71,Closed‑Won
+A01011,Davis and Sons,EdTech,New,31,30,17058.07,Closed‑Won
+A01012,"Robinson, Fox and Smith",Logistics,Expansion,20,40,17399.74,Closed‑Lost
+A01013,"Harris, Anderson and Love",HealthTech,Expansion,19,6,25878.47,Closed‑Won
+A01014,Brown-Hernandez,EdTech,New,24,48,21505.79,Closed‑Won
+A01015,"Stark, Schroeder and Mathis",E‑Commerce,New,11,28,12075.11,Closed‑Won
+A01016,Yu-Brooks,Logistics,Expansion,10,52,15934.96,Closed‑Won
+A01017,"Foster, Garcia and Turner",MarTech,Expansion,31,32,12389.78,Closed‑Won
+A01018,Daugherty Ltd,MarTech,New,12,33,12662.92,Closed‑Won
+A01019,Conner-Yu,FinTech,New,21,41,17569.22,Closed‑Won
+A01020,"Stewart, Mann and Hoffman",FinTech,Expansion,14,49,12413.21,Closed‑Won
+A01021,"Buchanan, Walker and Chapman",FinTech,New,12,10,10998.89,Negotiation
+A01022,Gray Ltd,FinTech,New,23,31,14032.2,Closed‑Won
+A01023,"Phillips, Thompson and Smith",Logistics,Expansion,30,2,16643.04,Closed‑Won
+A01024,"Fry, Myers and Gamble",Logistics,Expansion,19,28,26225.83,Closed‑Won
+A01025,"Johnson, Guzman and Mccall",Logistics,Expansion,10,48,19187.9,Closed‑Won
+A01026,"Walker, Cunningham and Zuniga",FinTech,Expansion,13,52,9239.47,Closed‑Won
+A01027,Rivera Inc,FinTech,New,10,17,12053.17,Negotiation
+A01028,Reed LLC,EdTech,New,32,23,14400.7,Negotiation
+A01029,Fields Inc,E‑Commerce,New,15,33,18762.11,Closed‑Won
+A01030,"Santiago, Daniel and Rogers",EdTech,New,17,24,17415.49,Closed‑Won
+A01031,Baker and Sons,MarTech,New,8,11,12130.8,On‑Hold
+A01032,"Jones, Scott and Rodriguez",HealthTech,New,19,18,19001.88,Closed‑Won
+A01033,Williams Group,CyberSecurity,New,33,24,16250.18,Closed‑Won
+A01034,"Barnes, Jackson and Gutierrez",EdTech,Expansion,18,31,7599.62,Closed‑Won
+A01035,Bell-Bennett,FinTech,New,25,55,11072.55,Closed‑Won
+A01036,Kramer-Lane,CyberSecurity,New,11,33,22964.92,Closed‑Won
+A01037,"Perez, Hayes and Lloyd",SMB SaaS,New,10,23,16268.72,Closed‑Won
+A01038,Phillips LLC,FinTech,New,27,39,17424.56,Closed‑Won
+A01039,Lynn-Jones,MarTech,Expansion,7,46,19213.95,Closed‑Won
+A01040,Barron and Sons,Logistics,New,19,26,14516.26,Closed‑Won
+A01041,"Jones, Mcmahon and Spence",CyberSecurity,New,15,29,14641.98,Closed‑Won
+A01042,Wheeler-Austin,Logistics,Expansion,6,13,18310.4,Closed‑Lost
+A01043,Bush-Reynolds,MarTech,New,21,52,11955.87,Closed‑Won
+A01044,"Martin, Preston and Moore",EdTech,New,34,52,10358.53,Closed‑Won
+A01045,Rivera and Sons,CyberSecurity,New,8,11,11621.2,Closed‑Won
+A01046,Terry-Bowen,HealthTech,New,30,21,14995.47,Closed‑Won
+A01047,"Fernandez, Guerrero and Evans",HealthTech,New,22,17,10101.43,Closed‑Won
+A01048,Williams PLC,E‑Commerce,New,27,55,15009.41,Closed‑Lost
+A01049,"Larsen, Hernandez and Ward",CyberSecurity,New,8,4,16720.06,Closed‑Won
+A01050,Miller-Colon,FinTech,New,32,13,18572.4,Closed‑Won
+A01051,"Greene, Gonzalez and Johnson",E‑Commerce,New,6,19,18027.35,Closed‑Won
+A01052,Little Inc,EdTech,New,33,34,24644.92,Closed‑Won
+A01053,Anthony-Parker,E‑Commerce,Expansion,25,15,11296.72,Closed‑Won
+A01054,Ruiz-Jacobson,SMB SaaS,New,16,32,13961.22,Closed‑Won
+A01055,Davis-Stephens,FinTech,New,6,45,18326.19,Closed‑Won
+A01056,Watson Group,SMB SaaS,New,24,49,17765.02,Negotiation
+A01057,Lopez-Williams,MarTech,New,8,6,10704.61,Closed‑Won
+A01058,Marshall-Perez,Logistics,New,24,9,16243.32,Closed‑Won
+A01059,Elliott-Hernandez,MarTech,Expansion,29,6,18662.12,Closed‑Won
+A01060,"Contreras, Miller and Cooper",EdTech,Expansion,14,54,22079.07,Closed‑Won
+A01061,"Gutierrez, Avila and Perez",Logistics,New,13,39,20894.12,Closed‑Won
+A01062,Randall PLC,CyberSecurity,New,12,32,18253.29,Closed‑Won
+A01063,Sheppard-Mcdaniel,HealthTech,Expansion,12,47,19385.17,Closed‑Won
+A01064,Armstrong-Young,CyberSecurity,New,9,35,12873.45,Closed‑Won
+A01065,Miller-Orr,Logistics,New,13,14,19685.96,Negotiation
+A01066,"Johnson, Duncan and Black",MarTech,New,25,31,22403.74,Closed‑Won
+A01067,"Byrd, Oliver and Martinez",SMB SaaS,New,15,42,14611.93,Closed‑Won
+A01068,Thompson-Joyce,CyberSecurity,Expansion,29,3,13460.29,Closed‑Won
+A01069,Stokes and Sons,EdTech,New,30,36,13715.77,Closed‑Won
+A01070,Henderson Ltd,FinTech,Expansion,28,30,14425.77,Closed‑Won
+A01071,Harris-Carson,CyberSecurity,New,22,5,9607.1,Closed‑Won
+A01072,Flowers LLC,HealthTech,New,15,16,10314.19,Closed‑Won
+A01073,Bartlett-Sloan,Logistics,New,33,27,9320.68,Negotiation
+A01074,Miller PLC,E‑Commerce,New,12,21,19919.7,Closed‑Won
+A01075,Arnold-Gates,MarTech,New,19,18,17338.28,Negotiation
+A01076,"Ellis, Marks and Buchanan",HealthTech,New,19,39,10523.18,Closed‑Won
+A01077,"Matthews, Harrington and Rodriguez",CyberSecurity,New,28,24,17925.73,Negotiation
+A01078,Hernandez PLC,HealthTech,Expansion,22,30,15653.21,Closed‑Lost
+A01079,"Chang, Ayers and Buckley",MarTech,New,29,48,17798.32,Closed‑Won
+A01080,"Chan, Floyd and Dillon",Logistics,New,33,6,19976.14,Closed‑Won
+A01081,Humphrey-Baker,SMB SaaS,New,17,22,12156.42,Closed‑Won
+A01082,"Washington, Lynch and Johnson",SMB SaaS,New,32,5,17674.69,Closed‑Won
+A01083,Powell-Montgomery,SMB SaaS,Expansion,11,55,14538.54,Closed‑Won
+A01084,"Steele, Williams and Preston",E‑Commerce,Expansion,33,11,10217.18,Closed‑Lost
+A01085,Vaughn-Williams,HealthTech,Expansion,11,49,16874.87,Negotiation
+A01086,Mccall-Prince,Logistics,New,31,12,13058.74,Closed‑Won
+A01087,Morgan LLC,Logistics,New,17,20,12092.15,Closed‑Won
+A01088,Ramirez-Vasquez,SMB SaaS,New,34,36,18256.58,Closed‑Won
+A01089,"Cohen, Compton and Perez",CyberSecurity,New,9,50,18097.84,Closed‑Won
+A01090,Mccann-Ramos,HealthTech,New,19,11,10714.66,Closed‑Won
+A01091,Adams-Butler,E‑Commerce,New,33,13,9388.45,Closed‑Won
+A01092,"Davis, Alexander and Mcintyre",MarTech,New,7,53,12467.75,Closed‑Won
+A01093,Figueroa-Malone,Logistics,New,13,19,11606.02,Closed‑Won
+A01094,Nicholson-Robertson,MarTech,New,8,13,20436.87,Closed‑Won
+A01095,Jones Ltd,EdTech,Expansion,15,44,12554.45,Closed‑Won
+A01096,"Powell, Deleon and Warren",FinTech,Expansion,17,6,14867.65,Closed‑Won
+A01097,"Johnson, Lee and Whitaker",Logistics,New,24,52,15914.72,Closed‑Won
+A01098,Wright Group,Logistics,Expansion,13,52,17884.35,Closed‑Won
+A01099,Hull Ltd,FinTech,New,10,51,10297.97,Closed‑Won
+A01100,Hill Group,MarTech,Expansion,11,18,22991.78,Closed‑Won
+A01101,"Sanders, Leblanc and Maldonado",MarTech,Expansion,34,7,20049.77,Closed‑Won
+A01102,Watson PLC,MarTech,New,34,26,17044.14,Closed‑Won
+A01103,Thompson-Harrell,SMB SaaS,Expansion,12,20,17218.48,Closed‑Won
+A01104,"Arnold, Cooper and Monroe",HealthTech,Expansion,11,57,8669.21,Closed‑Won
+A01105,Curry-Barker,EdTech,Expansion,7,38,15642.95,Closed‑Won
+A01106,Johnson-Williams,HealthTech,Expansion,34,56,15242.04,Negotiation
+A01107,"Chan, Lewis and Walker",HealthTech,New,27,45,20943.81,Closed‑Won
+A01108,Byrd LLC,SMB SaaS,New,28,43,9430.86,Closed‑Won
+A01109,"Ortiz, Smith and Deleon",SMB SaaS,Expansion,14,7,10274.35,Closed‑Won
+A01110,"Smith, Buck and Holland",FinTech,New,25,5,16079.24,Closed‑Won
+A01111,"Owen, Walker and Franklin",CyberSecurity,New,7,3,12929.98,Closed‑Won
+A01112,Marquez-Fletcher,HealthTech,New,26,36,24891.38,Negotiation
+A01113,Coleman-Bennett,HealthTech,New,23,12,11792.88,Closed‑Won
+A01114,Stevens-Robinson,EdTech,New,15,59,21166.34,Closed‑Won
+A01115,Byrd-Holloway,HealthTech,Expansion,27,8,6290.16,Closed‑Won
+A01116,Silva-Smith,MarTech,New,25,56,17733.55,Closed‑Won
+A01117,"Levy, Franco and Hoffman",SMB SaaS,Expansion,19,40,20075.34,Closed‑Won
+A01118,"Lynch, Evans and Rodriguez",E‑Commerce,Expansion,11,7,8679.89,Closed‑Won
+A01119,Rogers LLC,CyberSecurity,New,6,4,5934.55,Closed‑Won
+A01120,"Nguyen, Hill and Douglas",MarTech,New,34,24,4833.63,Closed‑Won
+A01121,"Evans, Hernandez and Cannon",FinTech,New,14,20,15622.08,Closed‑Won
+A01122,Trujillo PLC,FinTech,Expansion,15,19,13603.69,Closed‑Won
+A01123,Guerrero-Becker,EdTech,Expansion,26,32,15123.71,Closed‑Won
+A01124,"Johnson, Jimenez and Phillips",HealthTech,New,13,8,20798.9,Closed‑Won
+A01125,Sullivan-Doyle,Logistics,New,17,8,14984.99,Closed‑Won
+A01126,"Erickson, Armstrong and Lee",Logistics,New,27,41,14098.74,Closed‑Won
+A01127,"Reeves, Parks and Little",Logistics,New,23,59,11735.49,Negotiation
+A01128,Knox-Powers,CyberSecurity,Expansion,25,17,19543.92,Closed‑Won
+A01129,"Evans, Jackson and Sandoval",E‑Commerce,Expansion,6,55,16147.99,Negotiation
+A01130,"White, Davis and Anderson",CyberSecurity,New,19,21,13145.58,Closed‑Won
+A01131,Hardy-Hansen,MarTech,Expansion,20,20,17973.88,Closed‑Won
+A01132,Arroyo LLC,CyberSecurity,New,24,6,12063.5,Negotiation
+A01133,"Davis, Kelly and Garner",Logistics,Expansion,10,25,12469.69,Closed‑Won
+A01134,Fisher-Eaton,Logistics,New,10,30,16203.13,Closed‑Won
+A01135,Green-Carter,E‑Commerce,New,28,40,10012.32,Closed‑Won
+A01136,Ruiz Ltd,FinTech,Expansion,26,10,9890.68,Closed‑Won
+A01137,"Carpenter, Oliver and Kennedy",CyberSecurity,New,30,12,14398.17,Negotiation
+A01138,Mason Ltd,EdTech,New,14,26,15635.18,Closed‑Won
+A01139,Moreno-Gutierrez,CyberSecurity,Expansion,35,5,13321.56,Closed‑Won
+A01140,Taylor and Sons,E‑Commerce,New,14,9,14069.72,Closed‑Won
+A01141,Ortiz-Hudson,SMB SaaS,New,25,38,17249.31,Closed‑Won
+A01142,Thomas-Huffman,EdTech,New,10,57,11669.57,Closed‑Won
+A01143,Maxwell Group,SMB SaaS,New,33,34,5926.2,Closed‑Won
+A01144,Welch-Thompson,Logistics,New,15,9,18787.82,Closed‑Won
+A01145,"Brown, Hayes and Clark",EdTech,New,30,59,9130.44,Closed‑Won
+A01146,Johnston and Sons,MarTech,Expansion,15,31,11295.92,Closed‑Won
+A01147,Glover-Chan,E‑Commerce,New,29,43,8337.63,Closed‑Won
+A01148,Mendez Ltd,Logistics,New,19,12,16007.04,Closed‑Won
+A01149,Powell-Sanford,CyberSecurity,Expansion,7,35,17231.2,Closed‑Won
+A01150,Smith-Ferguson,Logistics,New,11,5,20935.45,Closed‑Lost
+A01151,"Watson, Smith and Morris",EdTech,Expansion,26,37,21175.06,Closed‑Won
+A01152,"Lee, Rhodes and Sims",E‑Commerce,New,11,12,19836.76,Closed‑Won
+A01153,Perez LLC,MarTech,Expansion,14,54,15310.97,Closed‑Won
+A01154,Anderson-Reyes,SMB SaaS,New,22,4,16220.17,Closed‑Won
+A01155,"Torres, Brown and Williams",EdTech,New,13,39,15799.34,Closed‑Won
+A01156,Bryant-Meyer,E‑Commerce,Expansion,9,9,13738.33,Closed‑Won
+A01157,"Morgan, Barron and Cowan",FinTech,New,24,41,17731.18,Closed‑Won
+A01158,Ferrell-Henry,Logistics,New,26,30,15910.04,Closed‑Won
+A01159,Martin Group,MarTech,New,27,58,13252.77,Closed‑Won
+A01160,Perez Ltd,EdTech,New,34,39,18120.28,Closed‑Won
+A01161,Clark Inc,E‑Commerce,New,9,22,15328.34,Closed‑Won
+A01162,"Wagner, Martinez and Dawson",MarTech,New,18,6,16634.0,Closed‑Won
+A01163,Brooks Ltd,Logistics,New,13,36,12059.94,Closed‑Won
+A01164,Wise-Dean,E‑Commerce,New,33,27,3028.45,Closed‑Won
+A01165,"Vang, Stanley and Valdez",E‑Commerce,New,22,4,15721.53,Negotiation
+A01166,Williams Inc,FinTech,New,8,35,9080.53,Closed‑Won
+A01167,Wallace-Martinez,FinTech,New,26,13,19531.38,Closed‑Won
+A01168,Wells-Hernandez,MarTech,New,7,14,13362.7,Closed‑Won
+A01169,"Jennings, Smith and Fisher",SMB SaaS,New,14,1,9793.39,Closed‑Won
+A01170,Bates LLC,SMB SaaS,New,27,22,12409.07,Closed‑Won
+A01171,"Obrien, Taylor and Rivas",CyberSecurity,New,21,13,14511.97,Closed‑Won
+A01172,Hunt PLC,CyberSecurity,New,28,5,19287.3,Closed‑Won
+A01173,Campbell Inc,MarTech,New,23,26,19968.42,Closed‑Won
+A01174,Gonzalez-Gonzalez,HealthTech,New,31,13,15156.08,Closed‑Won
+A01175,Decker-Dudley,FinTech,New,22,8,12447.1,Closed‑Won
+A01176,Warner-Phillips,EdTech,New,7,28,16843.08,Closed‑Won
+A01177,Kelley and Sons,EdTech,Expansion,8,4,13123.49,Closed‑Won
+A01178,"Fitzpatrick, Rivera and Smith",HealthTech,New,29,59,19849.96,Negotiation
+A01179,"Davis, Rodriguez and Andrews",EdTech,New,7,28,11220.11,Negotiation
+A01180,Hernandez-Davis,FinTech,New,17,59,22859.29,Negotiation
+A01181,"Jones, Cummings and Conway",E‑Commerce,New,6,53,16324.72,Closed‑Won
+A01182,"Hall, Hinton and Phillips",SMB SaaS,New,15,58,13471.99,Negotiation
+A01183,Williams-Li,CyberSecurity,New,23,33,18769.45,Closed‑Won
+A01184,Phelps LLC,MarTech,New,11,25,17240.97,Closed‑Won
+A01185,"Edwards, Rodgers and Davis",MarTech,New,19,43,17759.02,Negotiation
+A01186,Smith and Sons,EdTech,Expansion,35,5,16663.92,Closed‑Won
+A01187,"Holland, Murphy and Kline",HealthTech,Expansion,8,50,16307.14,Closed‑Won
+A01188,"Adams, Quinn and Watson",E‑Commerce,New,7,20,19635.21,Closed‑Won
+A01189,White-Morales,E‑Commerce,New,14,1,12671.78,Closed‑Won
+A01190,Nelson-Cruz,FinTech,Expansion,30,15,19266.72,Closed‑Lost
+A01191,Marsh-Banks,MarTech,New,18,15,13275.83,Closed‑Won
+A01192,Wilson Ltd,EdTech,Expansion,25,1,17634.06,Negotiation
+A01193,"Brown, Dunlap and Moore",HealthTech,New,7,40,21121.25,Negotiation
+A01194,Pruitt-Webb,CyberSecurity,Expansion,28,6,19806.62,Closed‑Won
+A01195,"Gregory, White and James",E‑Commerce,Expansion,8,50,14484.69,Closed‑Won
+A01196,Carr-Huffman,CyberSecurity,New,27,27,8398.56,Closed‑Won
+A01197,"Mcpherson, Anderson and Knapp",CyberSecurity,New,10,43,18520.13,Closed‑Won
+A01198,Clay Group,SMB SaaS,New,31,21,10902.66,Closed‑Won
+A01199,Brown Ltd,Logistics,New,14,8,15917.95,Closed‑Won
+A01200,Smith-Oneill,E‑Commerce,New,11,11,13432.62,Closed‑Won
+A01201,"Saunders, Ray and Cunningham",SMB SaaS,Expansion,16,39,18304.29,Closed‑Won
+A01202,"Marks, Stone and Watts",MarTech,New,6,43,11977.55,Closed‑Won
+A01203,"Davis, Stanley and Wright",SMB SaaS,New,10,16,10267.92,Closed‑Won
+A01204,Alvarado-Davidson,Logistics,Expansion,23,22,6593.51,Closed‑Won
+A01205,Combs PLC,CyberSecurity,New,15,56,15988.75,Closed‑Won
+A01206,"Brown, Schneider and Moore",SMB SaaS,New,16,51,13515.64,Closed‑Won
+A01207,Christian-Booth,E‑Commerce,Expansion,30,25,12117.04,Closed‑Won
+A01208,Walton LLC,CyberSecurity,New,9,15,14518.64,Closed‑Won
+A01209,Rivera LLC,EdTech,New,17,18,16244.19,Closed‑Lost
+A01210,Hunter PLC,SMB SaaS,New,11,32,17072.44,Negotiation
+A01211,"Gray, Montoya and Miller",E‑Commerce,Expansion,20,34,9472.98,Negotiation
+A01212,Solis-West,Logistics,New,15,11,17804.76,Closed‑Won
+A01213,West-Wilson,MarTech,New,7,4,18174.71,Closed‑Won
+A01214,Mcgee-Smith,Logistics,New,8,30,4417.78,Closed‑Won
+A01215,Gutierrez-Hawkins,FinTech,New,31,48,17124.83,Closed‑Won
+A01216,Petersen PLC,FinTech,Expansion,7,9,17885.35,Closed‑Won
+A01217,"Walsh, Wu and Hart",E‑Commerce,New,29,25,12911.14,Closed‑Won
+A01218,"Powers, Clements and Cox",CyberSecurity,Expansion,33,10,10277.54,Closed‑Won
+A01219,Velasquez Group,Logistics,New,19,15,15620.93,Closed‑Won
+A01220,Castro-Harvey,MarTech,New,15,37,9808.51,Closed‑Won
+A01221,Moran-Cox,CyberSecurity,Expansion,29,17,19103.97,Closed‑Won
+A01222,Wilson-Malone,E‑Commerce,New,35,16,15138.33,Closed‑Won
+A01223,Smith LLC,SMB SaaS,New,9,59,21194.64,Negotiation
+A01224,"Brandt, Carter and Boyd",CyberSecurity,Expansion,34,11,12559.8,Closed‑Won
+A01225,"Rodriguez, Prince and Vasquez",MarTech,New,34,12,17799.61,Closed‑Won
+A01226,"Newton, Ortiz and King",SMB SaaS,New,10,55,15594.02,Closed‑Won
+A01227,Lopez Group,FinTech,Expansion,7,33,12164.99,Closed‑Won
+A01228,Bryant and Sons,SMB SaaS,New,27,3,11588.62,Closed‑Won
+A01229,"Morgan, Sherman and Williams",HealthTech,New,8,26,17785.18,Closed‑Won
+A01230,"Monroe, Chapman and Barton",EdTech,New,24,34,18572.19,Negotiation
+A01231,Ellis-Lawrence,Logistics,New,7,15,18291.08,Closed‑Won
+A01232,"Taylor, Porter and Moreno",CyberSecurity,New,26,33,13003.09,Closed‑Won
+A01233,Tran Group,SMB SaaS,New,12,39,12955.06,Closed‑Won
+A01234,"Webb, Romero and Morse",CyberSecurity,New,8,15,26111.84,Closed‑Won
+A01235,Holt and Sons,CyberSecurity,New,7,48,17028.03,Closed‑Won
+A01236,"Ochoa, Garcia and Sandoval",EdTech,New,11,27,17561.27,Closed‑Won
+A01237,"Andrade, Gordon and Cruz",FinTech,New,22,57,16557.29,Closed‑Won
+A01238,"Moon, Farmer and Hill",FinTech,New,8,6,18577.5,Negotiation
+A01239,Waller-Chavez,EdTech,Expansion,30,20,15623.88,Closed‑Won
+A01240,Taylor PLC,FinTech,New,24,43,13611.97,Closed‑Won
+A01241,"Tanner, Hunt and Cameron",E‑Commerce,New,14,53,9367.42,Closed‑Won
+A01242,"Valencia, Joseph and Walls",Logistics,Expansion,35,14,6994.75,Closed‑Won
+A01243,"Robinson, Clark and Klein",SMB SaaS,New,25,58,11675.44,Closed‑Won
+A01244,"Reed, Chambers and Zavala",MarTech,New,26,12,6980.5,Closed‑Won
+A01245,"Hester, Thompson and Daniels",SMB SaaS,Expansion,11,25,10884.28,Closed‑Won
+A01246,"Morris, Wilson and Bell",SMB SaaS,New,27,19,15216.15,Closed‑Won
+A01247,Aguilar-Bender,Logistics,New,22,26,12415.84,Closed‑Won
+A01248,"Butler, Adkins and Skinner",MarTech,New,35,54,17149.18,Closed‑Won
+A01249,Rich-Henderson,EdTech,New,20,44,12074.46,Closed‑Won
+A01250,Mills Inc,SMB SaaS,New,26,47,16594.78,On‑Hold
+A01251,Thomas-Santiago,HealthTech,Expansion,16,15,13115.42,Closed‑Won
+A01252,Adams and Sons,MarTech,New,7,56,2679.78,Closed‑Won
+A01253,Vega-Thomas,FinTech,Expansion,9,26,22344.91,Closed‑Won
+A01254,Vaughn LLC,Logistics,Expansion,32,39,13507.69,Closed‑Won
+A01255,Molina Inc,CyberSecurity,New,28,42,12461.98,Closed‑Won
+A01256,Cervantes-Garcia,FinTech,Expansion,16,40,8763.02,Closed‑Won
+A01257,"Stevenson, Hancock and Newton",HealthTech,Expansion,26,36,17089.73,Negotiation
+A01258,"Price, Dixon and Robles",E‑Commerce,Expansion,6,29,18954.12,Closed‑Lost
+A01259,"Roberts, Beck and House",E‑Commerce,New,7,39,12593.06,Closed‑Won
+A01260,Butler-French,Logistics,New,21,54,13257.13,Closed‑Won
+A01261,"Edwards, Arnold and Smith",EdTech,New,24,23,17886.08,On‑Hold
+A01262,Harris-Melton,SMB SaaS,New,34,31,11972.31,Closed‑Won
+A01263,Greer-Pruitt,MarTech,New,28,11,20687.89,Closed‑Won
+A01264,"Mckinney, Richardson and Chapman",Logistics,New,13,21,18205.25,On‑Hold
+A01265,"Morrison, Parsons and Brandt",HealthTech,New,30,46,15959.84,Closed‑Won
+A01266,Cole-Lucero,FinTech,Expansion,20,38,10645.39,Negotiation
+A01267,Lopez and Sons,FinTech,New,30,13,17168.97,Closed‑Won
+A01268,"Palmer, Bennett and Patterson",EdTech,New,11,33,9577.38,Closed‑Won
+A01269,"Baker, Martin and Singleton",SMB SaaS,New,6,48,16115.92,Closed‑Won
+A01270,Rivera Ltd,FinTech,New,7,8,7546.16,Closed‑Lost
+A01271,Williams LLC,EdTech,New,35,4,19049.22,Closed‑Won
+A01272,"Williams, Randolph and Gilbert",FinTech,New,8,24,20715.46,Closed‑Won
+A01273,"Turner, Tyler and Pierce",SMB SaaS,New,34,39,12055.92,Closed‑Won
+A01274,Bowers LLC,CyberSecurity,New,27,19,19533.78,Closed‑Won
+A01275,"Robinson, White and Jones",Logistics,New,10,49,9558.91,Closed‑Won
+A01276,"Moore, Daniels and Powell",CyberSecurity,New,31,50,13927.84,Closed‑Won
+A01277,Walker-Lewis,CyberSecurity,New,10,32,16611.19,Closed‑Won
+A01278,Rivera-Carter,Logistics,New,10,23,15633.81,Closed‑Won
+A01279,"Moreno, Barajas and Colon",FinTech,New,23,3,14155.37,Closed‑Won
+A01280,"Smith, Caldwell and Griffin",Logistics,New,14,49,17316.24,Closed‑Won
+A01281,"Austin, Oliver and Haley",CyberSecurity,New,14,53,18141.67,Negotiation
+A01282,"Blackwell, James and Hogan",CyberSecurity,Expansion,11,27,14994.14,Closed‑Won
+A01283,Cruz PLC,MarTech,Expansion,24,31,13973.39,Closed‑Lost
+A01284,"Campbell, Pruitt and Short",Logistics,Expansion,6,45,10977.32,Negotiation
+A01285,Robertson-Hicks,MarTech,New,13,42,13963.2,Closed‑Won
+A01286,Williams-Villanueva,FinTech,New,22,8,12842.58,Closed‑Lost
+A01287,Flores Inc,SMB SaaS,New,20,40,18441.48,Closed‑Won
+A01288,Jackson PLC,HealthTech,Expansion,26,55,15101.48,Closed‑Won
+A01289,"Smith, Jones and Santiago",FinTech,Expansion,12,45,19547.54,Closed‑Won
+A01290,Hancock Group,E‑Commerce,Expansion,25,29,8016.3,Closed‑Won
+A01291,Harris Ltd,HealthTech,Expansion,28,31,20582.09,Closed‑Won
+A01292,"Rowe, Lucas and Case",Logistics,New,17,16,12723.68,Closed‑Won
+A01293,"Parks, Johnson and Love",MarTech,Expansion,13,39,18569.41,Closed‑Won
+A01294,Miller Inc,FinTech,Expansion,22,15,13505.98,Negotiation
+A01295,Bauer PLC,SMB SaaS,New,23,21,17100.0,Closed‑Won
+A01296,Andrews and Sons,E‑Commerce,Expansion,8,16,14592.92,Closed‑Won
+A01297,Russell-Hayes,EdTech,New,22,20,16574.19,Closed‑Lost
+A01298,Hamilton-Smith,CyberSecurity,Expansion,10,22,15351.16,Closed‑Won
+A01299,"Wilson, Smith and Cortez",E‑Commerce,Expansion,23,5,21477.63,Closed‑Won
+A01300,Avila PLC,FinTech,New,33,43,14200.56,Closed‑Won
+A01301,Haynes Inc,Logistics,New,22,27,18360.77,Negotiation
+A01302,Reilly-Rodriguez,MarTech,New,28,57,16230.75,Closed‑Won
+A01303,"Turner, Miller and Hubbard",CyberSecurity,Expansion,15,11,9860.98,Closed‑Won
+A01304,James-Short,SMB SaaS,Expansion,33,40,17591.97,Negotiation
+A01305,Wells PLC,E‑Commerce,New,30,11,16889.85,Closed‑Lost
+A01306,Taylor Group,CyberSecurity,Expansion,33,33,10816.29,On‑Hold
+A01307,"Phillips, Walters and Evans",EdTech,New,28,29,7795.0,Closed‑Won
+A01308,"Wong, Bernard and Smith",HealthTech,New,25,27,17521.93,Closed‑Won
+A01309,"Thomas, Williams and Armstrong",MarTech,New,21,39,15427.11,Closed‑Won
+A01310,Medina-Arroyo,Logistics,New,33,49,13243.84,Closed‑Won
+A01311,Clark-Figueroa,E‑Commerce,New,31,19,14427.34,Closed‑Won
+A01312,"Cooper, Gutierrez and Brewer",EdTech,New,18,51,18298.06,Closed‑Won
+A01313,"Thomas, White and Jensen",Logistics,New,8,11,11516.22,Closed‑Won
+A01314,Lee-White,Logistics,New,6,18,12942.82,Negotiation
+A01315,"Phelps, York and Randolph",SMB SaaS,Expansion,13,19,15820.29,Closed‑Won
+A01316,"Murray, Dunn and Roberts",EdTech,New,7,57,17056.73,Closed‑Won
+A01317,King and Sons,CyberSecurity,Expansion,12,7,16515.82,Closed‑Won
+A01318,"Carpenter, Lynn and Howard",E‑Commerce,New,9,24,24257.83,Closed‑Won
+A01319,"Rios, Garcia and Harvey",MarTech,New,35,26,16831.59,Closed‑Won
+A01320,Stewart Group,MarTech,New,8,48,19023.03,Closed‑Won
+A01321,Jensen-Torres,FinTech,New,24,29,4283.93,Closed‑Won
+A01322,"Hernandez, Knight and Aguirre",EdTech,New,16,58,22752.26,Closed‑Won
+A01323,Jackson-Edwards,E‑Commerce,New,11,44,19828.64,Closed‑Won
+A01324,Joseph Ltd,SMB SaaS,New,27,42,8296.06,Closed‑Won
+A01325,Hill-Ward,Logistics,New,35,45,9698.45,Negotiation
+A01326,"Quinn, Humphrey and Ford",HealthTech,New,29,10,14351.41,Closed‑Won
+A01327,Hampton-Tucker,CyberSecurity,New,35,27,16173.77,Closed‑Won
+A01328,Thompson PLC,FinTech,Expansion,23,35,18052.39,Closed‑Lost
+A01329,Wilkinson and Sons,CyberSecurity,New,26,13,17258.01,Closed‑Won
+A01330,"Gonzalez, Gross and Sims",EdTech,Expansion,10,8,10139.11,Closed‑Won
+A01331,"Jones, Smith and Hunter",MarTech,Expansion,31,9,15847.26,Closed‑Won
+A01332,Hess PLC,CyberSecurity,Expansion,28,47,18219.74,Closed‑Lost
+A01333,Hammond-Lewis,MarTech,Expansion,13,39,14109.31,Closed‑Won
+A01334,Arnold PLC,Logistics,New,16,17,14160.02,Closed‑Won
+A01335,"Kennedy, Rowe and Diaz",E‑Commerce,New,24,44,18946.12,Closed‑Won
+A01336,Vance PLC,SMB SaaS,New,6,42,12272.49,Closed‑Won
+A01337,"Vincent, Anderson and Mason",CyberSecurity,Expansion,30,49,12195.0,Closed‑Won
+A01338,Sanders PLC,EdTech,New,14,54,17899.06,Closed‑Won
+A01339,Bates PLC,Logistics,New,8,53,13637.42,Closed‑Won
+A01340,"Martin, Palmer and Griffin",MarTech,Expansion,15,11,18592.38,Closed‑Won
+A01341,Knight PLC,E‑Commerce,New,31,46,10781.22,Closed‑Won
+A01342,"Brennan, Thomas and Dennis",HealthTech,New,14,24,13847.62,Closed‑Won
+A01343,Williams-Juarez,FinTech,Expansion,22,24,13437.43,Closed‑Won
+A01344,Brown LLC,E‑Commerce,New,30,39,20839.4,Closed‑Won
+A01345,Williams and Sons,HealthTech,New,7,36,12327.35,Closed‑Won
+A01346,"Velez, Ward and Harrison",SMB SaaS,Expansion,28,25,16685.47,Closed‑Won
+A01347,Keith-Williams,Logistics,New,14,59,14931.94,Closed‑Won
+A01348,"Nguyen, Padilla and Boyd",CyberSecurity,New,26,11,13530.34,Closed‑Won
+A01349,Davenport-Baker,CyberSecurity,New,11,6,19608.6,Closed‑Won
+A01350,"Hudson, Bennett and Gray",E‑Commerce,New,10,2,17801.21,Closed‑Won
+A01351,"Valdez, Houston and Black",FinTech,New,29,49,17799.13,Closed‑Won
+A01352,Kaufman-Walker,MarTech,Expansion,30,24,14544.2,Closed‑Won
+A01353,Gomez-Parrish,MarTech,Expansion,35,26,14637.57,Closed‑Won
+A01354,Sparks-Eaton,SMB SaaS,New,26,39,19228.52,Closed‑Won
+A01355,Shaw and Sons,HealthTech,New,19,26,20588.97,Closed‑Won
+A01356,Martin-Jones,MarTech,New,11,34,13928.19,Closed‑Won
+A01357,"Campbell, Hernandez and Moore",EdTech,Expansion,14,4,13367.93,Closed‑Won
+A01358,"Love, Wilson and Hall",HealthTech,New,25,10,9804.26,Closed‑Won
+A01359,Cortez-Olson,FinTech,New,16,55,10873.3,Closed‑Won
+A01360,Mendoza-Garza,EdTech,New,20,27,17509.05,Closed‑Won
+A01361,"Whitaker, Johnson and Williams",FinTech,Expansion,11,10,8129.77,Closed‑Won
+A01362,"Vargas, Taylor and Hunt",FinTech,New,19,22,17458.9,Closed‑Won
+A01363,"Thomas, Jackson and Nielsen",EdTech,Expansion,13,20,13836.08,Closed‑Won
+A01364,"Mullen, Greene and Elliott",HealthTech,New,9,17,11372.39,Closed‑Won
+A01365,Johns Ltd,E‑Commerce,Expansion,9,18,14506.15,Closed‑Won
+A01366,"Nicholson, Valentine and Robinson",FinTech,New,21,44,11473.68,Closed‑Won
+A01367,"Haney, Dillon and Jackson",EdTech,New,16,7,9443.52,Closed‑Won
+A01368,Burke-Norton,MarTech,Expansion,8,19,14170.23,Closed‑Won
+A01369,Hanson PLC,SMB SaaS,Expansion,21,28,18178.81,Negotiation
+A01370,Jackson-Jennings,CyberSecurity,New,10,32,13743.67,Negotiation
+A01371,Carlson-Jones,SMB SaaS,New,6,52,9399.46,Closed‑Won
+A01372,Cruz-Rodriguez,EdTech,New,9,55,19426.74,Closed‑Won
+A01373,Mills PLC,MarTech,New,19,18,10888.67,Closed‑Lost
+A01374,"Barnes, Hernandez and Davis",MarTech,New,34,32,16761.86,Negotiation
+A01375,Valenzuela-Greene,SMB SaaS,Expansion,13,2,21787.39,Closed‑Lost
+A01376,"Gordon, Wilson and Olson",SMB SaaS,New,14,37,6777.36,Closed‑Won
+A01377,Winters PLC,SMB SaaS,Expansion,13,10,7029.75,Closed‑Won
+A01378,Prince Ltd,Logistics,New,16,5,18791.78,Closed‑Won
+A01379,"Reynolds, Fisher and Golden",E‑Commerce,New,27,40,21447.85,Negotiation
+A01380,"Moreno, Perez and Lang",E‑Commerce,New,15,11,18384.95,Closed‑Won
+A01381,Bell-Ballard,SMB SaaS,New,25,29,16206.29,Negotiation
+A01382,"Johnston, Coleman and Scott",EdTech,New,32,6,22366.72,Closed‑Won
+A01383,Kent Inc,EdTech,New,34,44,17593.6,Closed‑Won
+A01384,George-Stephens,SMB SaaS,Expansion,22,46,12112.94,Closed‑Won
+A01385,Lopez-Fletcher,MarTech,Expansion,27,34,23523.73,Closed‑Won
+A01386,Lane Inc,HealthTech,Expansion,33,50,16657.3,Closed‑Won
+A01387,"Smith, Pena and Watts",E‑Commerce,New,29,26,15524.35,Closed‑Won
+A01388,Ortiz-Rodriguez,EdTech,New,14,12,8725.84,Closed‑Won
+A01389,Pearson-King,SMB SaaS,New,9,9,19881.0,Closed‑Won
+A01390,"Henderson, Diaz and Hill",SMB SaaS,New,9,13,11858.98,Negotiation
+A01391,"Sanders, Harris and Arnold",EdTech,New,32,12,11194.74,Negotiation
+A01392,"Olson, Wood and Peters",E‑Commerce,New,22,20,9253.68,Closed‑Won
+A01393,Hinton-Lane,SMB SaaS,New,14,13,15273.46,Closed‑Won
+A01394,"Sanders, Taylor and Shields",CyberSecurity,New,16,35,11999.51,Closed‑Won
+A01395,Adkins Group,HealthTech,New,14,9,11630.59,Closed‑Lost
+A01396,"Avery, Garcia and Romero",E‑Commerce,New,30,37,11265.5,Closed‑Won
+A01397,Owen-Mendez,E‑Commerce,New,24,20,13588.48,Closed‑Won
+A01398,"Mann, Martin and Oconnell",CyberSecurity,New,32,41,9707.01,Closed‑Won
+A01399,Brock and Sons,FinTech,New,15,31,16774.18,Closed‑Won
+A01400,Frost-Graham,EdTech,New,20,54,11776.18,Closed‑Won
+A01401,Baker LLC,Logistics,New,9,26,11337.65,Closed‑Won
+A01402,Lynch Ltd,HealthTech,Expansion,35,18,8741.33,Closed‑Won
+A01403,Arias-Morales,EdTech,New,21,35,22240.42,Closed‑Won
+A01404,"Meyer, Dawson and Harper",EdTech,New,22,39,14083.98,Closed‑Won
+A01405,Bowman Group,HealthTech,Expansion,18,26,13131.0,Closed‑Won
+A01406,Harris Ltd,HealthTech,New,14,34,11262.4,Closed‑Won
+A01407,"Mitchell, Johnson and Greene",EdTech,Expansion,34,28,20423.84,Closed‑Won
+A01408,"Hale, Gilbert and Craig",Logistics,Expansion,20,19,16299.79,Closed‑Won
+A01409,Allen-Smith,FinTech,New,26,19,18416.63,Closed‑Lost
+A01410,Miller LLC,EdTech,New,7,54,17247.26,Closed‑Won
+A01411,Gomez-Foster,FinTech,New,14,40,17770.78,Closed‑Won
+A01412,"Gonzalez, Smith and Padilla",E‑Commerce,Expansion,30,6,13436.32,Negotiation
+A01413,Dunn Ltd,EdTech,New,8,57,17634.65,Closed‑Won
+A01414,"Herman, Bailey and Richmond",Logistics,New,9,43,18774.41,Closed‑Won
+A01415,Perez-Mccarty,E‑Commerce,New,30,3,18125.29,Closed‑Won
+A01416,Spears-Andrews,Logistics,New,15,43,17942.32,Closed‑Won
+A01417,Thompson-Hunter,CyberSecurity,Expansion,14,35,14963.83,Closed‑Won
+A01418,"Jones, Phillips and Arroyo",MarTech,New,22,55,14206.09,Closed‑Won
+A01419,"Frye, Walter and Li",Logistics,Expansion,11,29,17287.46,Closed‑Won
+A01420,"Wright, Ramos and Bennett",MarTech,Expansion,7,31,16815.85,Closed‑Won
+A01421,Carrillo-Todd,SMB SaaS,New,6,19,15413.37,Closed‑Won
+A01422,Maldonado-Mosley,SMB SaaS,New,8,19,18739.0,Negotiation
+A01423,Olson LLC,E‑Commerce,Expansion,10,37,16059.03,Closed‑Won
+A01424,Reyes and Sons,CyberSecurity,Expansion,26,49,11308.86,Closed‑Won
+A01425,"Haynes, Mcbride and Gutierrez",EdTech,Expansion,14,53,11031.8,Negotiation
+A01426,Black-Smith,Logistics,New,8,46,16931.19,Closed‑Won
+A01427,Wright-Davis,CyberSecurity,New,6,36,12821.46,Closed‑Won
+A01428,"Goodman, Peterson and Spencer",SMB SaaS,New,20,30,21875.07,Closed‑Won
+A01429,Woods LLC,EdTech,Expansion,31,21,15642.65,Negotiation
+A01430,Shannon LLC,Logistics,New,16,46,12080.01,Closed‑Won
+A01431,Valentine Ltd,MarTech,New,7,19,10175.34,Negotiation
+A01432,Porter and Sons,HealthTech,New,12,16,20325.5,Negotiation
+A01433,Moss LLC,HealthTech,New,20,52,8645.09,Closed‑Won
+A01434,Perez and Sons,E‑Commerce,Expansion,11,35,15295.55,Closed‑Won
+A01435,"Kelly, Maxwell and Wilson",EdTech,New,35,21,17039.58,Closed‑Won
+A01436,Lowe Ltd,FinTech,New,28,52,8150.7,Closed‑Won
+A01437,Austin-Duran,MarTech,Expansion,16,57,10345.61,Closed‑Won
+A01438,"Rubio, Charles and Watson",CyberSecurity,Expansion,34,19,11626.5,Closed‑Won
+A01439,Vasquez-Galloway,EdTech,New,15,31,23385.5,Closed‑Won
+A01440,"Melton, Henry and Joyce",SMB SaaS,New,10,29,14865.21,Negotiation
+A01441,"Ramirez, Walker and Ray",Logistics,Expansion,34,42,16421.48,Closed‑Won
+A01442,Fox Group,E‑Commerce,Expansion,34,57,21721.28,Closed‑Won
+A01443,Ayers-Johnson,SMB SaaS,New,15,33,13706.66,Closed‑Won
+A01444,Long-Parks,MarTech,New,23,48,6036.74,Closed‑Won
+A01445,Bryant Inc,HealthTech,New,11,36,5055.04,Closed‑Won
+A01446,"Holmes, Stewart and Smith",FinTech,New,25,53,10907.06,Closed‑Won
+A01447,"Clark, Carpenter and Nguyen",SMB SaaS,Expansion,26,24,17583.37,Closed‑Won
+A01448,"Hensley, Lopez and Baker",SMB SaaS,New,27,23,21494.23,Closed‑Won
+A01449,Ruiz-Austin,CyberSecurity,New,23,25,17297.46,Closed‑Won
+A01450,White-Coleman,FinTech,Expansion,27,59,12432.22,Negotiation
+A01451,Haynes-Watson,EdTech,Expansion,22,37,11364.87,Closed‑Won
+A01452,Ramirez-White,FinTech,Expansion,30,10,22687.63,Closed‑Won
+A01453,Krause Ltd,FinTech,New,11,3,25801.86,Closed‑Won
+A01454,Olsen Ltd,HealthTech,New,20,31,15368.39,Closed‑Won
+A01455,Brock-Peters,E‑Commerce,New,18,48,17643.01,Closed‑Lost
+A01456,Gonzalez-Marsh,FinTech,New,22,29,15675.67,On‑Hold
+A01457,"Hernandez, Shaffer and Thompson",SMB SaaS,New,10,34,13926.16,Closed‑Won
+A01458,Taylor-Barry,MarTech,New,15,48,15025.07,Closed‑Won
+A01459,"Holmes, Le and Floyd",EdTech,New,34,31,9177.03,On‑Hold
+A01460,King-Garrison,E‑Commerce,Expansion,9,54,11648.27,Closed‑Won
+A01461,Ross Ltd,Logistics,Expansion,25,38,16290.63,Closed‑Won
+A01462,Brown LLC,EdTech,New,25,44,20295.44,Closed‑Won
+A01463,Combs-Davis,FinTech,New,20,47,15188.13,Closed‑Won
+A01464,"Cook, Ward and Castro",FinTech,New,7,37,25999.91,Closed‑Won
+A01465,Cooper-Jenkins,Logistics,New,7,3,11542.88,Closed‑Won
+A01466,Dillon-Mccarty,FinTech,New,14,26,16019.13,Closed‑Won
+A01467,Ray Ltd,CyberSecurity,New,9,9,18756.65,Closed‑Won
+A01468,"Ryan, Krause and Mitchell",MarTech,Expansion,8,31,13107.8,Closed‑Won
+A01469,Nunez-Freeman,Logistics,New,10,9,19759.88,Closed‑Won
+A01470,"Griffin, Miller and Austin",FinTech,Expansion,11,31,23836.31,Closed‑Won
+A01471,Welch-Thomas,SMB SaaS,New,31,21,10150.17,Closed‑Won
+A01472,Davidson LLC,CyberSecurity,New,25,2,13751.71,Closed‑Won
+A01473,Welch-Duncan,MarTech,New,6,8,9404.44,Closed‑Won
+A01474,Miller LLC,HealthTech,New,24,30,9287.36,Closed‑Won
+A01475,Edwards Ltd,SMB SaaS,New,10,5,20112.32,Negotiation
+A01476,Page-Jacobs,EdTech,Expansion,18,51,18192.86,Closed‑Won
+A01477,Nelson-Wallace,MarTech,New,7,45,11846.66,Closed‑Won
+A01478,Adkins-Meyer,MarTech,New,8,42,18161.27,Closed‑Won
+A01479,Gutierrez-White,HealthTech,New,9,11,8371.04,Negotiation
+A01480,Martinez and Sons,MarTech,New,19,47,15443.01,Closed‑Won
+A01481,"King, Manning and Brady",HealthTech,New,19,38,13639.38,Closed‑Won
+A01482,Jackson Inc,FinTech,New,16,24,15530.47,Closed‑Won
+A01483,Brown Group,EdTech,Expansion,24,1,13406.21,Negotiation
+A01484,"Brown, Wise and Warren",FinTech,New,27,32,12571.71,Negotiation
+A01485,Garcia PLC,MarTech,New,27,47,18896.46,Closed‑Won
+A01486,Miller Group,Logistics,New,23,2,14650.12,Closed‑Won
+A01487,Perez-Rojas,HealthTech,Expansion,22,4,16740.06,Closed‑Won
+A01488,Sims-Anderson,FinTech,New,20,23,11847.67,Closed‑Won
+A01489,Johnson Ltd,FinTech,New,13,31,7775.72,Closed‑Won
+A01490,Dalton-Nguyen,E‑Commerce,New,20,28,13616.01,Closed‑Won
+A01491,Mcdonald-Pitts,EdTech,New,6,26,9682.77,Closed‑Won
+A01492,Dunn-Taylor,MarTech,New,34,16,13986.02,Closed‑Lost
+A01493,"Ryan, Garza and Bryant",FinTech,Expansion,17,4,18774.91,On‑Hold
+A01494,"Fields, Elliott and Mills",EdTech,New,28,2,12025.2,Closed‑Won
+A01495,"Ferguson, Stout and Olson",MarTech,Expansion,34,6,20697.57,Closed‑Won
+A01496,Ballard Group,MarTech,New,20,41,15876.17,Closed‑Won
+A01497,Diaz-Green,E‑Commerce,Expansion,31,47,24078.57,Negotiation
+A01498,Smith-Mills,Logistics,Expansion,20,26,15261.74,Negotiation
+A01499,Cooper Group,MarTech,New,9,5,16931.78,Closed‑Won
+A01500,"Smith, Weeks and Arroyo",Logistics,New,6,25,6444.88,Closed‑Won
+A01501,Evans-Cannon,E‑Commerce,New,10,59,12190.0,Closed‑Won
+A01502,Harper-Robles,EdTech,Expansion,34,15,13133.74,Closed‑Won
+A01503,"Brooks, Jenkins and Castro",HealthTech,New,20,29,21770.46,Closed‑Won
+A01504,Wright-Espinoza,EdTech,New,15,32,11873.9,Closed‑Won
+A01505,"Price, Gray and Baker",E‑Commerce,New,19,20,19766.5,Closed‑Won
+A01506,Garrett-Black,HealthTech,Expansion,13,26,20497.25,Closed‑Won
+A01507,"Aguirre, Cohen and Mitchell",SMB SaaS,New,32,28,10854.53,Closed‑Won
+A01508,"Patel, Adams and Lopez",MarTech,New,35,28,17479.41,Closed‑Lost
+A01509,White LLC,Logistics,Expansion,8,43,15138.49,Closed‑Won
+A01510,Walsh PLC,CyberSecurity,New,27,35,17469.04,Closed‑Won
+A01511,Nelson-Dean,EdTech,Expansion,16,4,15444.29,Closed‑Won
+A01512,Flores and Sons,HealthTech,New,7,1,13557.73,Closed‑Won
+A01513,Booker Inc,CyberSecurity,New,33,25,10386.59,Closed‑Won
+A01514,Compton LLC,EdTech,Expansion,7,54,18884.78,Closed‑Won
+A01515,Martinez-Gonzales,HealthTech,New,12,3,9734.83,Closed‑Won
+A01516,Hall and Sons,SMB SaaS,New,6,5,18727.96,Closed‑Won
+A01517,Snyder LLC,MarTech,New,20,41,12827.6,Closed‑Won
+A01518,Collins-Lloyd,FinTech,New,23,27,21114.94,Closed‑Won
+A01519,Ford-Moody,MarTech,New,15,14,19075.29,Closed‑Won
+A01520,Miller-Christensen,MarTech,New,8,13,18679.68,Closed‑Lost
+A01521,Brown Group,Logistics,New,9,40,15346.95,Closed‑Won
+A01522,Daniels and Sons,CyberSecurity,New,34,31,17423.55,Closed‑Won
+A01523,Huang LLC,HealthTech,New,30,38,15355.3,Closed‑Won
+A01524,Clayton-Martinez,HealthTech,New,34,17,15014.43,Closed‑Won
+A01525,"Wright, Wise and Ramos",E‑Commerce,New,21,32,19362.78,Closed‑Won
+A01526,"Vang, Gonzalez and Moss",FinTech,New,22,51,15327.95,Closed‑Won
+A01527,Boyd and Sons,EdTech,Expansion,29,19,15871.06,On‑Hold
+A01528,Price-Ali,HealthTech,New,24,24,21540.44,Closed‑Lost
+A01529,Moore-Chandler,FinTech,New,19,10,21571.85,Closed‑Lost
+A01530,"Pineda, Meyer and King",SMB SaaS,New,14,38,7845.84,Closed‑Won
+A01531,"Evans, Ward and Williams",FinTech,Expansion,20,2,5103.12,Closed‑Won
+A01532,"Robinson, Rodriguez and Chen",FinTech,New,7,15,19294.63,Negotiation
+A01533,Smith-Bauer,SMB SaaS,New,11,43,20068.12,Closed‑Won
+A01534,"Wilson, Mccormick and Smith",HealthTech,New,28,2,12957.85,Closed‑Won
+A01535,Perkins Ltd,Logistics,New,32,59,20639.9,Closed‑Won
+A01536,Barker-Moore,FinTech,Expansion,9,24,12300.2,Negotiation
+A01537,Wright Group,HealthTech,Expansion,8,24,13229.83,On‑Hold
+A01538,Parks LLC,FinTech,New,8,32,21060.91,Closed‑Won
+A01539,"Brown, Kelly and Moore",CyberSecurity,Expansion,29,38,11688.08,Closed‑Won
+A01540,"Moody, Martinez and Hall",E‑Commerce,New,15,28,14114.73,Closed‑Won
+A01541,"Kramer, Sherman and Trujillo",MarTech,New,15,53,14915.62,Closed‑Won
+A01542,Quinn-Smith,HealthTech,Expansion,6,57,18935.07,Closed‑Won
+A01543,Howard-Taylor,FinTech,New,35,12,11261.43,Closed‑Won
+A01544,Washington Group,E‑Commerce,New,19,42,10919.1,Closed‑Won
+A01545,"Phillips, Terry and Lopez",HealthTech,New,29,18,13373.62,Closed‑Won
+A01546,Stephens LLC,E‑Commerce,Expansion,27,59,13520.8,Closed‑Won
+A01547,"Mcdonald, Dillon and George",CyberSecurity,New,10,15,16397.9,Closed‑Won
+A01548,"Martin, Schmidt and Cole",Logistics,New,30,18,11218.93,Closed‑Won
+A01549,Weaver-Gibson,MarTech,New,22,43,15125.15,Closed‑Won
+A01550,"Hunter, Gross and Andrade",FinTech,New,24,47,13087.81,Closed‑Won
+A01551,"Vincent, Parsons and Allen",EdTech,New,12,8,14713.55,Closed‑Won
+A01552,"Brown, Coffey and Fuentes",Logistics,Expansion,31,33,18592.21,Closed‑Won
+A01553,Warren Group,E‑Commerce,Expansion,33,21,20389.02,Closed‑Lost
+A01554,"Moore, Campbell and Ortiz",E‑Commerce,Expansion,18,37,15514.89,On‑Hold
+A01555,Rodriguez-Mills,MarTech,Expansion,8,33,20657.52,Closed‑Won
+A01556,Williams and Sons,HealthTech,New,31,59,9197.87,Closed‑Won
+A01557,Russo and Sons,SMB SaaS,New,32,56,16592.79,Closed‑Won
+A01558,Washington Inc,Logistics,New,21,39,21205.09,Negotiation
+A01559,Duncan Group,SMB SaaS,New,23,41,14364.29,Closed‑Won
+A01560,"Burns, Hanson and Garza",Logistics,Expansion,12,54,19624.36,Closed‑Won
+A01561,Diaz PLC,EdTech,New,8,11,14710.24,Closed‑Won
+A01562,"Jones, Conrad and Clark",EdTech,Expansion,34,43,16423.4,Closed‑Won
+A01563,Hebert-Collier,HealthTech,New,20,46,14371.63,Closed‑Won
+A01564,Owen-Brown,SMB SaaS,New,14,8,9098.44,Closed‑Won
+A01565,"Paul, Zamora and Short",E‑Commerce,New,26,52,15633.07,Closed‑Won
+A01566,"Brown, Jensen and Rice",MarTech,New,6,42,17219.63,Closed‑Won
+A01567,"Jones, Torres and Blackburn",SMB SaaS,New,8,21,12036.1,Closed‑Won
+A01568,"Davis, Hardy and Schmidt",E‑Commerce,New,13,29,14248.6,Negotiation
+A01569,Lee Ltd,SMB SaaS,New,19,29,13267.41,Closed‑Won
+A01570,Hudson and Sons,SMB SaaS,Expansion,17,55,17869.12,Closed‑Won
+A01571,"Curry, Perry and Garcia",FinTech,New,11,58,18362.24,Closed‑Won
+A01572,"Ray, Craig and Park",EdTech,New,16,48,13821.54,Closed‑Won
+A01573,Andrade-Jackson,CyberSecurity,Expansion,16,39,12069.99,Closed‑Won
+A01574,Pierce PLC,Logistics,New,21,7,19392.7,Closed‑Won
+A01575,Sandoval-Ferguson,HealthTech,Expansion,22,54,14552.18,Closed‑Won
+A01576,"Ramos, Gomez and Edwards",EdTech,Expansion,32,8,20448.05,Closed‑Won
+A01577,Kirk-Gutierrez,E‑Commerce,New,30,10,11282.13,Negotiation
+A01578,"Jordan, Swanson and Franklin",Logistics,New,14,5,16495.18,Closed‑Won
+A01579,"Gardner, Brooks and Pierce",FinTech,New,33,56,11534.68,On‑Hold
+A01580,"King, Nixon and West",E‑Commerce,Expansion,21,30,12185.45,Closed‑Won
+A01581,Smith-Johnson,EdTech,Expansion,11,14,18551.23,Closed‑Won
+A01582,Larson-Holmes,HealthTech,Expansion,16,5,10050.96,Negotiation
+A01583,Smith-Joyce,E‑Commerce,New,28,25,16790.15,Closed‑Won
+A01584,Foley Inc,MarTech,New,30,43,18606.6,Negotiation
+A01585,"Short, Ellison and Dixon",CyberSecurity,New,17,59,15428.22,Closed‑Won
+A01586,"Howe, Moore and Johnson",EdTech,Expansion,10,33,14724.39,Closed‑Won
+A01587,Moore-Baker,Logistics,New,11,36,18002.4,Closed‑Won
+A01588,"Wright, Scott and Evans",FinTech,New,9,50,7312.03,Closed‑Won
+A01589,"Ross, Hardin and Navarro",Logistics,New,26,54,20891.71,Closed‑Lost
+A01590,"Nguyen, Olson and Freeman",FinTech,Expansion,21,17,16826.76,Closed‑Won
+A01591,"Warner, Weiss and Davis",CyberSecurity,Expansion,19,59,15812.9,Closed‑Won
+A01592,"Evans, Cross and Johnston",EdTech,New,26,31,13677.85,Closed‑Won
+A01593,Deleon LLC,MarTech,New,30,55,16128.58,Closed‑Won
+A01594,Hobbs-Hamilton,FinTech,New,29,7,21770.57,Negotiation
+A01595,Kane and Sons,CyberSecurity,New,10,6,18841.21,Closed‑Won
+A01596,"Delgado, Guzman and Smith",HealthTech,New,23,53,10262.53,Closed‑Won
+A01597,"Reyes, Torres and Williams",CyberSecurity,New,32,40,11143.73,Closed‑Won
+A01598,"Cunningham, Murphy and Wolfe",CyberSecurity,New,29,11,15735.55,Closed‑Won
+A01599,Williams Ltd,Logistics,New,15,53,10842.78,Closed‑Won
+A01600,Maddox-Mullins,CyberSecurity,New,17,7,11131.67,Closed‑Won
+A01601,"Wagner, Walker and Roberts",EdTech,New,32,41,15776.37,On‑Hold
+A01602,Hernandez-Rogers,CyberSecurity,Expansion,6,13,15533.61,Closed‑Won
+A01603,Duncan-Williams,Logistics,New,21,5,15763.75,Negotiation
+A01604,Baker-Ross,EdTech,Expansion,9,48,16677.42,Closed‑Won
+A01605,Ayala-Anderson,FinTech,New,32,50,12137.48,Closed‑Won
+A01606,Castillo and Sons,SMB SaaS,New,7,7,12170.94,Closed‑Won
+A01607,Foster-Duncan,HealthTech,New,6,6,12496.0,Closed‑Won
+A01608,"Gilbert, Fitzgerald and Sanchez",E‑Commerce,New,15,37,22410.1,Closed‑Won
+A01609,Adams Group,HealthTech,New,12,2,11740.1,Closed‑Won
+A01610,Cohen-Johnston,HealthTech,New,20,45,11696.05,Negotiation
+A01611,Powers Group,Logistics,Expansion,14,55,4598.29,Closed‑Won
+A01612,Bailey-Flores,HealthTech,New,16,45,14908.63,Closed‑Won
+A01613,"Rios, Carrillo and Jackson",CyberSecurity,New,22,14,12496.19,Closed‑Won
+A01614,Jensen-Branch,CyberSecurity,New,22,12,18675.34,Closed‑Won
+A01615,Hanson-Alexander,FinTech,New,34,41,14249.24,Closed‑Won
+A01616,Gonzalez LLC,HealthTech,Expansion,20,4,13653.8,On‑Hold
+A01617,Todd Inc,Logistics,Expansion,22,32,15019.34,On‑Hold
+A01618,Singh and Sons,E‑Commerce,New,26,27,10726.77,On‑Hold
+A01619,"Mcintosh, Melton and Wilkins",FinTech,New,11,44,11090.01,Closed‑Won
+A01620,Cooper Inc,SMB SaaS,New,26,12,17732.49,Closed‑Lost
+A01621,Cole-Johnson,EdTech,New,31,45,12113.63,Closed‑Lost
+A01622,Singh and Sons,FinTech,Expansion,15,42,12144.18,Closed‑Won
+A01623,Payne LLC,SMB SaaS,Expansion,11,15,17099.71,Negotiation
+A01624,"Webb, Blair and Thomas",FinTech,New,16,22,20332.52,Closed‑Won
+A01625,"Barnett, Bennett and Escobar",E‑Commerce,New,14,4,14373.52,Closed‑Won
+A01626,"Williams, Jackson and Campbell",SMB SaaS,New,23,27,18644.21,Closed‑Won
+A01627,"Williamson, Brown and Pena",E‑Commerce,New,31,16,8691.79,Negotiation
+A01628,Jones Ltd,E‑Commerce,New,23,7,15860.3,Closed‑Won
+A01629,Alvarado-Durham,MarTech,New,9,34,23777.29,Closed‑Won
+A01630,Lin-Smith,HealthTech,Expansion,15,34,15161.22,Closed‑Won
+A01631,"Hughes, Whitney and Romero",E‑Commerce,New,26,6,16077.53,Closed‑Won
+A01632,"Garcia, Stewart and Delacruz",SMB SaaS,New,15,11,9410.33,Closed‑Won
+A01633,"Miller, Gonzalez and Rasmussen",FinTech,New,23,5,11439.72,Closed‑Won
+A01634,"House, Smith and Wright",SMB SaaS,New,26,41,15165.6,Closed‑Won
+A01635,"Torres, Burns and Garner",MarTech,Expansion,15,20,9280.52,Closed‑Won
+A01636,Reed LLC,E‑Commerce,New,25,5,15488.57,Closed‑Won
+A01637,Garrett-Young,HealthTech,Expansion,17,12,17945.09,Closed‑Won
+A01638,"Hill, Brown and Scott",E‑Commerce,Expansion,10,58,10509.0,Closed‑Won
+A01639,Zamora-Briggs,HealthTech,New,17,16,13244.59,Closed‑Won
+A01640,Raymond LLC,EdTech,New,19,41,12828.93,Closed‑Won
+A01641,Hernandez Group,CyberSecurity,Expansion,6,28,10798.74,Closed‑Won
+A01642,"Taylor, Blair and Meyer",FinTech,New,32,11,14260.45,Closed‑Won
+A01643,"Salazar, Garrett and Perez",MarTech,New,21,19,13977.94,Closed‑Won
+A01644,Berry Group,E‑Commerce,Expansion,7,1,26249.78,Closed‑Won
+A01645,Browning-Murphy,HealthTech,Expansion,32,45,8591.76,Closed‑Won
+A01646,"Anderson, Delgado and Carpenter",EdTech,New,31,20,11197.18,Closed‑Won
+A01647,"Mcbride, Huffman and Parker",EdTech,New,6,30,8178.32,Closed‑Won
+A01648,"Roach, Browning and Jordan",CyberSecurity,New,10,10,14964.44,Closed‑Won
+A01649,Douglas PLC,SMB SaaS,Expansion,16,49,14546.65,Closed‑Won
+A01650,Stewart PLC,Logistics,New,21,13,16016.32,Closed‑Won
+A01651,"Fry, Wilson and Stewart",HealthTech,New,27,34,13771.6,Closed‑Won
+A01652,Acosta LLC,FinTech,New,18,52,20176.51,Closed‑Won
+A01653,Ali-Turner,FinTech,Expansion,24,43,16182.9,Closed‑Won
+A01654,"Peck, Shannon and Mahoney",E‑Commerce,Expansion,6,36,20809.19,Negotiation
+A01655,Hernandez-Lopez,HealthTech,New,25,53,19848.98,Closed‑Won
+A01656,Lopez PLC,HealthTech,New,33,11,12693.46,Closed‑Won
+A01657,"Adams, Bradley and Hall",Logistics,Expansion,21,57,9173.9,Closed‑Won
+A01658,Hall Inc,Logistics,Expansion,19,33,17845.2,Negotiation
+A01659,Miller-Chan,Logistics,New,14,25,13959.71,On‑Hold
+A01660,Shaw PLC,EdTech,New,34,16,16703.35,Closed‑Won
+A01661,Joseph-Brooks,E‑Commerce,New,6,44,14060.82,Closed‑Won
+A01662,Henry-Taylor,E‑Commerce,New,14,58,17577.03,Closed‑Won
+A01663,Perez Group,HealthTech,New,10,41,9163.67,Closed‑Won
+A01664,Schaefer Group,E‑Commerce,New,31,2,19058.35,Closed‑Won
+A01665,Newton and Sons,E‑Commerce,New,20,28,15453.18,Closed‑Won
+A01666,Jones Group,MarTech,Expansion,33,44,14320.43,On‑Hold
+A01667,"Burns, Nguyen and Ellis",Logistics,New,25,24,19865.48,Closed‑Won
+A01668,Patterson Inc,CyberSecurity,New,22,46,10095.93,Closed‑Won
+A01669,"Moss, James and Edwards",E‑Commerce,New,21,42,5270.39,Closed‑Won
+A01670,"Crosby, Armstrong and Herrera",CyberSecurity,New,12,4,12328.61,Negotiation
+A01671,"Liu, Buchanan and Meyer",Logistics,New,22,33,15618.12,Closed‑Won
+A01672,Bryant-Rich,E‑Commerce,New,26,11,17188.26,Closed‑Won
+A01673,Stone Group,EdTech,New,34,29,19788.71,Closed‑Won
+A01674,"Williams, Hughes and Hubbard",Logistics,New,22,23,20230.3,Closed‑Won
+A01675,Lee Group,CyberSecurity,Expansion,34,48,16450.76,Closed‑Won
+A01676,Wilkerson-Ayala,SMB SaaS,New,34,52,17537.07,Closed‑Won
+A01677,Murray-Henderson,HealthTech,Expansion,21,28,9904.72,Closed‑Won
+A01678,"Ellison, Vaughn and Mckee",MarTech,Expansion,19,32,17364.8,Closed‑Won
+A01679,Gallegos-Hayes,SMB SaaS,Expansion,10,37,17471.37,Closed‑Won
+A01680,"Mason, White and Richards",E‑Commerce,New,14,39,17742.4,Closed‑Won
+A01681,"Payne, Long and Morris",SMB SaaS,New,32,38,8374.72,Closed‑Won
+A01682,White PLC,FinTech,New,10,47,14493.1,Closed‑Won
+A01683,"Huang, Khan and Davis",FinTech,New,17,58,17872.47,Closed‑Won
+A01684,Holt-Meadows,Logistics,New,26,49,6411.55,Closed‑Won
+A01685,Higgins Inc,EdTech,Expansion,13,8,14145.28,Closed‑Won
+A01686,Wilson Group,E‑Commerce,New,35,29,12687.81,Closed‑Won
+A01687,"Cox, Mills and Cruz",MarTech,Expansion,25,28,16240.79,Closed‑Lost
+A01688,"Salazar, Moore and Pierce",MarTech,New,6,31,14781.25,Closed‑Won
+A01689,Tate LLC,SMB SaaS,New,13,32,12608.3,Closed‑Won
+A01690,"Savage, Huffman and Martin",FinTech,New,28,43,11998.51,Closed‑Won
+A01691,White Ltd,Logistics,New,31,25,15919.84,Closed‑Won
+A01692,Barnes LLC,SMB SaaS,New,33,16,10556.51,Closed‑Won
+A01693,"Mack, Griffin and Sims",CyberSecurity,New,31,27,14215.75,Closed‑Won
+A01694,Roach and Sons,MarTech,New,8,51,12152.94,Closed‑Won
+A01695,Dean LLC,HealthTech,New,27,19,15116.82,Closed‑Won
+A01696,Ellis Group,CyberSecurity,New,9,2,10192.68,Closed‑Won
+A01697,"Aguirre, Franklin and Snyder",MarTech,Expansion,8,58,13921.37,On‑Hold
+A01698,Chapman Group,HealthTech,New,26,12,14189.91,Closed‑Won
+A01699,Ortiz-Miller,EdTech,New,20,36,19067.23,Closed‑Lost
+A01700,"Smith, Khan and Ramirez",SMB SaaS,New,25,48,17391.48,Closed‑Won
