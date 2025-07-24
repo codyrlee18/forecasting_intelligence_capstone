@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Synthetic SaaS datasets generator
 --------------------------------
@@ -7,7 +6,7 @@ Generates four CSV files in the current working directory:
     2. crm.csv
     3. finance.csv
     4. survey.csv
-Creates ≈10 k rows of time‑series data (six months) for ~1 700 accounts.
+Creates ≈68 k rows of time‑series data (24 months) for ~2 800 accounts.
 Dependencies: pandas, numpy, faker
 Run:  pip install pandas numpy faker && python generate_saas_datasets.py
 """
@@ -24,8 +23,8 @@ rng = np.random.default_rng(SEED)
 fake = Faker()
 Faker.seed(SEED)
 
-N_ACCOUNTS = 1_700  # ≈10 k rows over six months
-MONTHS = pd.period_range("2025-01", periods=6, freq="M")
+N_ACCOUNTS = 2800  # ≈67 k rows over 24 months
+MONTHS = pd.period_range("2023-01", periods=24, freq="M")
 
 INDUSTRIES = [
     "FinTech", "HealthTech", "EdTech", "MarTech", "E‑Commerce",
@@ -58,7 +57,7 @@ accounts["client_tenure_months"] = rng.integers(1, 60, size=N_ACCOUNTS)
 # ------------------------- monthly product usage -----------------------------
 usage_rows = []
 for period in MONTHS:
-    base_date = period.end_time  # eom
+    base_date = period.end_time
     days_in_month = base_date.day
 
     usage_rows.append(pd.DataFrame({
@@ -89,12 +88,10 @@ aud_survey = pd.DataFrame(survey_rows)
 # ------------------------ churn mechanism & finance --------------------------
 finance_rows = []
 for period in MONTHS:
-    base_date = period.end_time  # use same eom key as product_usage
+    base_date = period.end_time
 
-    # revenue distribution (USD)
     baseline_rev = rng.gamma(shape=2.0, scale=1200, size=N_ACCOUNTS)
 
-    # covariates on same month
     mask_usage = product_usage.date == base_date.strftime("%Y-%m-%d")
     sessions = product_usage.loc[mask_usage, "sessions_last_30d"].values
     last_login = product_usage.loc[mask_usage, "last_login_days"].values
@@ -105,12 +102,12 @@ for period in MONTHS:
         .reindex(accounts.account_id).csat_score.values
     )
 
-    # latent churn probability
+    # increase churn rate by slightly raising base probability
     score = (
         -0.03 * sessions +
         0.05 * last_login -
         0.4 * (csat_month - 5) +
-        rng.normal(0, 0.5, N_ACCOUNTS)
+        rng.normal(0.5, 0.5, N_ACCOUNTS)  # slight upward bias
     )
     churn_flag = rng.random(N_ACCOUNTS) < sigmoid(score)
 
