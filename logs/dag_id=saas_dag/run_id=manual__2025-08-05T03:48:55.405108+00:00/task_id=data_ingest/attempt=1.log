@@ -1,0 +1,13 @@
+[2025-08-05T03:49:06.969+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: saas_dag.data_ingest manual__2025-08-05T03:48:55.405108+00:00 [queued]>
+[2025-08-05T03:49:06.980+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: saas_dag.data_ingest manual__2025-08-05T03:48:55.405108+00:00 [queued]>
+[2025-08-05T03:49:06.981+0000] {taskinstance.py:1331} INFO - Starting attempt 1 of 4
+[2025-08-05T03:49:07.003+0000] {taskinstance.py:1350} INFO - Executing <Task(_PythonDecoratedOperator): data_ingest> on 2025-08-05 03:48:55.405108+00:00
+[2025-08-05T03:49:07.010+0000] {standard_task_runner.py:57} INFO - Started process 835 to run task
+[2025-08-05T03:49:07.018+0000] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'saas_dag', 'data_ingest', 'manual__2025-08-05T03:48:55.405108+00:00', '--job-id', '30', '--raw', '--subdir', 'DAGS_FOLDER/project_dag.py', '--cfg-path', '/tmp/tmpe4a7wgvu']
+[2025-08-05T03:49:07.021+0000] {standard_task_runner.py:85} INFO - Job 30: Subtask data_ingest
+[2025-08-05T03:49:07.085+0000] {task_command.py:410} INFO - Running <TaskInstance: saas_dag.data_ingest manual__2025-08-05T03:48:55.405108+00:00 [running]> on host dfbd74e97932
+[2025-08-05T03:49:07.543+0000] {taskinstance.py:1568} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Cody Lee' AIRFLOW_CTX_DAG_ID='saas_dag' AIRFLOW_CTX_TASK_ID='data_ingest' AIRFLOW_CTX_EXECUTION_DATE='2025-08-05T03:48:55.405108+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-08-05T03:48:55.405108+00:00'
+[2025-08-05T03:49:08.685+0000] {python.py:183} INFO - Done. Returned value was: None
+[2025-08-05T03:49:08.708+0000] {taskinstance.py:1368} INFO - Marking task as SUCCESS. dag_id=saas_dag, task_id=data_ingest, execution_date=20250805T034855, start_date=20250805T034906, end_date=20250805T034908
+[2025-08-05T03:49:08.773+0000] {local_task_job_runner.py:232} INFO - Task exited with return code 0
+[2025-08-05T03:49:08.866+0000] {taskinstance.py:2674} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,36 @@
+[2025-08-05T01:39:36.627+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: saas_dag.rev_analysis manual__2025-08-05T01:39:01.912090+00:00 [queued]>
+[2025-08-05T01:39:36.640+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: saas_dag.rev_analysis manual__2025-08-05T01:39:01.912090+00:00 [queued]>
+[2025-08-05T01:39:36.640+0000] {taskinstance.py:1331} INFO - Starting attempt 1 of 4
+[2025-08-05T01:39:36.660+0000] {taskinstance.py:1350} INFO - Executing <Task(_PythonDecoratedOperator): rev_analysis> on 2025-08-05 01:39:01.912090+00:00
+[2025-08-05T01:39:36.665+0000] {standard_task_runner.py:57} INFO - Started process 276 to run task
+[2025-08-05T01:39:36.705+0000] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'saas_dag', 'rev_analysis', 'manual__2025-08-05T01:39:01.912090+00:00', '--job-id', '13', '--raw', '--subdir', 'DAGS_FOLDER/project_dag.py', '--cfg-path', '/tmp/tmp7tqncbiq']
+[2025-08-05T01:39:36.714+0000] {standard_task_runner.py:85} INFO - Job 13: Subtask rev_analysis
+[2025-08-05T01:39:36.812+0000] {task_command.py:410} INFO - Running <TaskInstance: saas_dag.rev_analysis manual__2025-08-05T01:39:01.912090+00:00 [running]> on host dfbd74e97932
+[2025-08-05T01:39:37.656+0000] {taskinstance.py:1568} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Cody Lee' AIRFLOW_CTX_DAG_ID='saas_dag' AIRFLOW_CTX_TASK_ID='rev_analysis' AIRFLOW_CTX_EXECUTION_DATE='2025-08-05T01:39:01.912090+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-08-05T01:39:01.912090+00:00'
+[2025-08-05T01:39:39.805+0000] {taskinstance.py:1847} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/decorators/base.py", line 220, in execute
+    return_value = super().execute(context)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 181, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 198, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/project_dag.py", line 49, in rev_analysis
+    rev_analysis()
+  File "/opt/airflow/scripts/forecast_modeling.py", line 11, in rev_analysis
+    df = pd.read_csv("opt/airflow/clean_data/revenue_forecast_data.csv")
+  File "/home/airflow/.local/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/airflow/.local/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/airflow/.local/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/airflow/.local/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/home/airflow/.local/lib/python3.10/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'opt/airflow/clean_data/revenue_forecast_data.csv'
+[2025-08-05T01:39:39.813+0000] {taskinstance.py:1368} INFO - Marking task as UP_FOR_RETRY. dag_id=saas_dag, task_id=rev_analysis, execution_date=20250805T013901, start_date=20250805T013936, end_date=20250805T013939
+[2025-08-05T01:39:39.825+0000] {standard_task_runner.py:104} ERROR - Failed to execute job 13 for task rev_analysis ([Errno 2] No such file or directory: 'opt/airflow/clean_data/revenue_forecast_data.csv'; 276)
+[2025-08-05T01:39:39.855+0000] {local_task_job_runner.py:232} INFO - Task exited with return code 1
+[2025-08-05T01:39:39.881+0000] {taskinstance.py:2674} INFO - 0 downstream tasks scheduled from follow-on schedule check

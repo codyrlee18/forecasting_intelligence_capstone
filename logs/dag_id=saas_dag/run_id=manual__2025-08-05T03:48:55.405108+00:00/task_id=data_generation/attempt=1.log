@@ -1,0 +1,18 @@
+[2025-08-05T03:49:00.317+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: saas_dag.data_generation manual__2025-08-05T03:48:55.405108+00:00 [queued]>
+[2025-08-05T03:49:00.323+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: saas_dag.data_generation manual__2025-08-05T03:48:55.405108+00:00 [queued]>
+[2025-08-05T03:49:00.324+0000] {taskinstance.py:1331} INFO - Starting attempt 1 of 4
+[2025-08-05T03:49:00.340+0000] {taskinstance.py:1350} INFO - Executing <Task(_PythonDecoratedOperator): data_generation> on 2025-08-05 03:48:55.405108+00:00
+[2025-08-05T03:49:00.346+0000] {standard_task_runner.py:57} INFO - Started process 825 to run task
+[2025-08-05T03:49:00.350+0000] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'saas_dag', 'data_generation', 'manual__2025-08-05T03:48:55.405108+00:00', '--job-id', '29', '--raw', '--subdir', 'DAGS_FOLDER/project_dag.py', '--cfg-path', '/tmp/tmp__uy3zxy']
+[2025-08-05T03:49:00.352+0000] {standard_task_runner.py:85} INFO - Job 29: Subtask data_generation
+[2025-08-05T03:49:00.397+0000] {task_command.py:410} INFO - Running <TaskInstance: saas_dag.data_generation manual__2025-08-05T03:48:55.405108+00:00 [running]> on host dfbd74e97932
+[2025-08-05T03:49:00.802+0000] {taskinstance.py:1568} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Cody Lee' AIRFLOW_CTX_DAG_ID='saas_dag' AIRFLOW_CTX_TASK_ID='data_generation' AIRFLOW_CTX_EXECUTION_DATE='2025-08-05T03:48:55.405108+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-08-05T03:48:55.405108+00:00'
+[2025-08-05T03:49:02.498+0000] {logging_mixin.py:149} INFO - ✅ Datasets generated:
+[2025-08-05T03:49:02.498+0000] {logging_mixin.py:149} INFO -  • product_usage.csv
+[2025-08-05T03:49:02.499+0000] {logging_mixin.py:149} INFO -  • crm.csv
+[2025-08-05T03:49:02.499+0000] {logging_mixin.py:149} INFO -  • finance.csv
+[2025-08-05T03:49:02.499+0000] {logging_mixin.py:149} INFO -  • survey.csv
+[2025-08-05T03:49:02.500+0000] {python.py:183} INFO - Done. Returned value was: None
+[2025-08-05T03:49:02.508+0000] {taskinstance.py:1368} INFO - Marking task as SUCCESS. dag_id=saas_dag, task_id=data_generation, execution_date=20250805T034855, start_date=20250805T034900, end_date=20250805T034902
+[2025-08-05T03:49:02.534+0000] {local_task_job_runner.py:232} INFO - Task exited with return code 0
+[2025-08-05T03:49:02.562+0000] {taskinstance.py:2674} INFO - 1 downstream tasks scheduled from follow-on schedule check

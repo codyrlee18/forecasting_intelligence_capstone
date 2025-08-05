@@ -1,0 +1,21 @@
+Feature,Importance Score
+comment_sentiment_score,0.2504875553217729
+csat_score,0.21268701078190494
+client_tenure_months,0.17295734804292656
+last_login_days,0.13054848277619938
+sessions_last_30d,0.09963873158946189
+support_tickets_30d,0.0768840734088123
+region_LATAM,0.008413893152954975
+industry_EdTech,0.005881944407848208
+industry_Logistics,0.00566178265226914
+industry_E -Commerce,0.005490162039171926
+feature_purchased_Automation,0.005291921280004526
+feature_purchased_Core,0.004587266300508273
+region_North America,0.004207649722723835
+feature_purchased_Analytics,0.0033018534042382076
+industry_MarTech,0.0030661851906155896
+industry_SMB SaaS,0.00277412769926092
+region_Europe,0.002555174073000583
+industry_FinTech,0.0024190889989893377
+industry_HealthTech,0.001725672571564275
+feature_purchased_Premium Support,0.0014200765857724272

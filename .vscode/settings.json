@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "DuckDB",
+            "database": "${workspaceFolder:CodyLee_CapstoneProject}/forecastintelligence.duckdb",
+            "name": "forecastintelligence"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

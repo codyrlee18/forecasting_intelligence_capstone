@@ -1,0 +1,73 @@
+[2025-08-05T02:00:19.903+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: saas_dag.rev_analysis manual__2025-08-05T01:59:55.360560+00:00 [queued]>
+[2025-08-05T02:00:20.012+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: saas_dag.rev_analysis manual__2025-08-05T01:59:55.360560+00:00 [queued]>
+[2025-08-05T02:00:20.015+0000] {taskinstance.py:1331} INFO - Starting attempt 1 of 4
+[2025-08-05T02:00:20.034+0000] {taskinstance.py:1350} INFO - Executing <Task(_PythonDecoratedOperator): rev_analysis> on 2025-08-05 01:59:55.360560+00:00
+[2025-08-05T02:00:20.037+0000] {standard_task_runner.py:57} INFO - Started process 500 to run task
+[2025-08-05T02:00:20.041+0000] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'saas_dag', 'rev_analysis', 'manual__2025-08-05T01:59:55.360560+00:00', '--job-id', '23', '--raw', '--subdir', 'DAGS_FOLDER/project_dag.py', '--cfg-path', '/tmp/tmphcbc614i']
+[2025-08-05T02:00:20.044+0000] {standard_task_runner.py:85} INFO - Job 23: Subtask rev_analysis
+[2025-08-05T02:00:20.083+0000] {task_command.py:410} INFO - Running <TaskInstance: saas_dag.rev_analysis manual__2025-08-05T01:59:55.360560+00:00 [running]> on host dfbd74e97932
+[2025-08-05T02:00:21.033+0000] {taskinstance.py:1568} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Cody Lee' AIRFLOW_CTX_DAG_ID='saas_dag' AIRFLOW_CTX_TASK_ID='rev_analysis' AIRFLOW_CTX_EXECUTION_DATE='2025-08-05T01:59:55.360560+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-08-05T01:59:55.360560+00:00'
+[2025-08-05T02:00:22.856+0000] {logging_mixin.py:149} INFO - ADF Statistic: -4.4845567386255825
+[2025-08-05T02:00:22.857+0000] {logging_mixin.py:149} INFO - p-value: 0.00020966808783049506
+[2025-08-05T02:00:22.858+0000] {logging_mixin.py:149} INFO - Critical Values: {'1%': -3.7529275211638033, '5%': -2.998499866852963, '10%': -2.6389669754253307}
+[2025-08-05T02:00:22.889+0000] {logging_mixin.py:149} INFO -                                SARIMAX Results                                
+==============================================================================
+Dep. Variable:             actual_usd   No. Observations:                   24
+Model:                 ARIMA(2, 1, 0)   Log Likelihood                -337.709
+Date:                Tue, 05 Aug 2025   AIC                            681.418
+Time:                        02:00:22   BIC                            684.824
+Sample:                             0   HQIC                           682.274
+                                 - 24                                         
+Covariance Type:                  opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+ar.L1         -0.3889      0.209     -1.862      0.063      -0.798       0.021
+ar.L2         -0.0078      0.203     -0.038      0.969      -0.406       0.390
+sigma2      3.013e+11   1.03e-13   2.94e+24      0.000    3.01e+11    3.01e+11
+===================================================================================
+Ljung-Box (L1) (Q):                   0.24   Jarque-Bera (JB):                 1.16
+Prob(Q):                              0.62   Prob(JB):                         0.56
+Heteroskedasticity (H):               1.88   Skew:                            -0.27
+Prob(H) (two-sided):                  0.39   Kurtosis:                         2.05
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).
+[2] Covariance matrix is singular or near-singular, with condition number 6.9e+40. Standard errors may be unstable.
+[2025-08-05T02:00:23.033+0000] {taskinstance.py:1847} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "pandas/_libs/tslibs/offsets.pyx", line 4089, in pandas._libs.tslibs.offsets._get_offset
+KeyError: 'ME'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "pandas/_libs/tslibs/offsets.pyx", line 4190, in pandas._libs.tslibs.offsets.to_offset
+  File "pandas/_libs/tslibs/offsets.pyx", line 4095, in pandas._libs.tslibs.offsets._get_offset
+ValueError: Invalid frequency: ME
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/decorators/base.py", line 220, in execute
+    return_value = super().execute(context)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 181, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 198, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/project_dag.py", line 49, in rev_analysis
+    rev_analysis()
+  File "/opt/airflow/scripts/forecast_modeling.py", line 48, in rev_analysis
+    forecast_index = pd.date_range(start=fc_df.index[-1] + pd.DateOffset(months=1),
+  File "/home/airflow/.local/lib/python3.10/site-packages/pandas/core/indexes/datetimes.py", line 945, in date_range
+    dtarr = DatetimeArray._generate_range(
+  File "/home/airflow/.local/lib/python3.10/site-packages/pandas/core/arrays/datetimes.py", line 398, in _generate_range
+    freq = to_offset(freq)
+  File "pandas/_libs/tslibs/offsets.pyx", line 4102, in pandas._libs.tslibs.offsets.to_offset
+  File "pandas/_libs/tslibs/offsets.pyx", line 4198, in pandas._libs.tslibs.offsets.to_offset
+ValueError: Invalid frequency: ME
+[2025-08-05T02:00:23.045+0000] {taskinstance.py:1368} INFO - Marking task as UP_FOR_RETRY. dag_id=saas_dag, task_id=rev_analysis, execution_date=20250805T015955, start_date=20250805T020019, end_date=20250805T020023
+[2025-08-05T02:00:23.069+0000] {standard_task_runner.py:104} ERROR - Failed to execute job 23 for task rev_analysis (Invalid frequency: ME; 500)
+[2025-08-05T02:00:23.094+0000] {local_task_job_runner.py:232} INFO - Task exited with return code 1
+[2025-08-05T02:00:23.113+0000] {taskinstance.py:2674} INFO - 0 downstream tasks scheduled from follow-on schedule check

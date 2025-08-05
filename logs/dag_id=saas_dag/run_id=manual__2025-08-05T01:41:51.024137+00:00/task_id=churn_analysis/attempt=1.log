@@ -1,0 +1,42 @@
+[2025-08-05T01:42:13.617+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: saas_dag.churn_analysis manual__2025-08-05T01:41:51.024137+00:00 [queued]>
+[2025-08-05T01:42:13.627+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: saas_dag.churn_analysis manual__2025-08-05T01:41:51.024137+00:00 [queued]>
+[2025-08-05T01:42:13.627+0000] {taskinstance.py:1331} INFO - Starting attempt 1 of 4
+[2025-08-05T01:42:13.650+0000] {taskinstance.py:1350} INFO - Executing <Task(_PythonDecoratedOperator): churn_analysis> on 2025-08-05 01:41:51.024137+00:00
+[2025-08-05T01:42:13.661+0000] {standard_task_runner.py:57} INFO - Started process 356 to run task
+[2025-08-05T01:42:13.668+0000] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'saas_dag', 'churn_analysis', 'manual__2025-08-05T01:41:51.024137+00:00', '--job-id', '17', '--raw', '--subdir', 'DAGS_FOLDER/project_dag.py', '--cfg-path', '/tmp/tmp8b7iooqw']
+[2025-08-05T01:42:13.671+0000] {standard_task_runner.py:85} INFO - Job 17: Subtask churn_analysis
+[2025-08-05T01:42:13.738+0000] {task_command.py:410} INFO - Running <TaskInstance: saas_dag.churn_analysis manual__2025-08-05T01:41:51.024137+00:00 [running]> on host dfbd74e97932
+[2025-08-05T01:42:14.390+0000] {taskinstance.py:1568} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Cody Lee' AIRFLOW_CTX_DAG_ID='saas_dag' AIRFLOW_CTX_TASK_ID='churn_analysis' AIRFLOW_CTX_EXECUTION_DATE='2025-08-05T01:41:51.024137+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-08-05T01:41:51.024137+00:00'
+[2025-08-05T01:42:16.810+0000] {taskinstance.py:1847} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/decorators/base.py", line 220, in execute
+    return_value = super().execute(context)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 181, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 198, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/project_dag.py", line 44, in churn_analysis
+    churn_analysis()
+  File "/opt/airflow/scripts/churn_modeling.py", line 28, in churn_analysis
+    rf_model.fit(X_train, y_train)
+  File "/home/airflow/.local/lib/python3.10/site-packages/sklearn/base.py", line 1151, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.10/site-packages/sklearn/ensemble/_forest.py", line 348, in fit
+    X, y = self._validate_data(
+  File "/home/airflow/.local/lib/python3.10/site-packages/sklearn/base.py", line 621, in _validate_data
+    X, y = check_X_y(X, y, **check_params)
+  File "/home/airflow/.local/lib/python3.10/site-packages/sklearn/utils/validation.py", line 1147, in check_X_y
+    X = check_array(
+  File "/home/airflow/.local/lib/python3.10/site-packages/sklearn/utils/validation.py", line 959, in check_array
+    _assert_all_finite(
+  File "/home/airflow/.local/lib/python3.10/site-packages/sklearn/utils/validation.py", line 124, in _assert_all_finite
+    _assert_all_finite_element_wise(
+  File "/home/airflow/.local/lib/python3.10/site-packages/sklearn/utils/validation.py", line 173, in _assert_all_finite_element_wise
+    raise ValueError(msg_err)
+ValueError: Input X contains NaN.
+RandomForestClassifier does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+[2025-08-05T01:42:16.824+0000] {taskinstance.py:1368} INFO - Marking task as UP_FOR_RETRY. dag_id=saas_dag, task_id=churn_analysis, execution_date=20250805T014151, start_date=20250805T014213, end_date=20250805T014216
+[2025-08-05T01:42:16.840+0000] {standard_task_runner.py:104} ERROR - Failed to execute job 17 for task churn_analysis (Input X contains NaN.
+RandomForestClassifier does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values; 356)
+[2025-08-05T01:42:16.890+0000] {local_task_job_runner.py:232} INFO - Task exited with return code 1
+[2025-08-05T01:42:16.912+0000] {taskinstance.py:2674} INFO - 0 downstream tasks scheduled from follow-on schedule check

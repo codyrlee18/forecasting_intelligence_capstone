@@ -1,0 +1,25 @@
+[2025-08-05T04:16:48.868+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: saas_dag.churn_analysis manual__2025-08-05T04:16:29.147316+00:00 [queued]>
+[2025-08-05T04:16:48.877+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: saas_dag.churn_analysis manual__2025-08-05T04:16:29.147316+00:00 [queued]>
+[2025-08-05T04:16:48.878+0000] {taskinstance.py:1331} INFO - Starting attempt 1 of 4
+[2025-08-05T04:16:48.891+0000] {taskinstance.py:1350} INFO - Executing <Task(_PythonDecoratedOperator): churn_analysis> on 2025-08-05 04:16:29.147316+00:00
+[2025-08-05T04:16:48.896+0000] {standard_task_runner.py:57} INFO - Started process 1213 to run task
+[2025-08-05T04:16:48.900+0000] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'saas_dag', 'churn_analysis', 'manual__2025-08-05T04:16:29.147316+00:00', '--job-id', '47', '--raw', '--subdir', 'DAGS_FOLDER/project_dag.py', '--cfg-path', '/tmp/tmp8pcyabwx']
+[2025-08-05T04:16:48.902+0000] {standard_task_runner.py:85} INFO - Job 47: Subtask churn_analysis
+[2025-08-05T04:16:48.945+0000] {task_command.py:410} INFO - Running <TaskInstance: saas_dag.churn_analysis manual__2025-08-05T04:16:29.147316+00:00 [running]> on host dfbd74e97932
+[2025-08-05T04:16:49.320+0000] {taskinstance.py:1568} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Cody Lee' AIRFLOW_CTX_DAG_ID='saas_dag' AIRFLOW_CTX_TASK_ID='churn_analysis' AIRFLOW_CTX_EXECUTION_DATE='2025-08-05T04:16:29.147316+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-08-05T04:16:29.147316+00:00'
+[2025-08-05T04:16:50.868+0000] {logging_mixin.py:149} WARNING - /opt/airflow/scripts/churn_modeling.py:25 SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+[2025-08-05T04:16:50.872+0000] {logging_mixin.py:149} WARNING - /opt/airflow/scripts/churn_modeling.py:26 SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+[2025-08-05T04:16:51.078+0000] {logging_mixin.py:149} INFO - KDA results saved to /opt/airflow/outputs/KDA_output.csv
+[2025-08-05T04:16:51.285+0000] {logging_mixin.py:149} INFO - Probabilities results saved to /opt/airflow/outputs/KDA_output.csv
+[2025-08-05T04:16:51.299+0000] {logging_mixin.py:149} INFO - 
+AUC-ROC Score: 1.00
+[2025-08-05T04:16:51.300+0000] {python.py:183} INFO - Done. Returned value was: None
+[2025-08-05T04:16:51.306+0000] {taskinstance.py:1368} INFO - Marking task as SUCCESS. dag_id=saas_dag, task_id=churn_analysis, execution_date=20250805T041629, start_date=20250805T041648, end_date=20250805T041651
+[2025-08-05T04:16:51.373+0000] {local_task_job_runner.py:232} INFO - Task exited with return code 0
+[2025-08-05T04:16:51.401+0000] {taskinstance.py:2674} INFO - 0 downstream tasks scheduled from follow-on schedule check
